@@ -1,0 +1,21 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "zhangsu"
+    },
+    {
+      "id": "n0",
+      "label": "ryanb"
+    }
+  ],
+  "links": [
+    {
+      "weight": 6.0,
+      "id": "0",
+      "target": "n0",
+      "source": "n1",
+      "value": "0"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "faridsahari79"
+    },
+    {
+      "id": "n0",
+      "label": "raggi"
+    }
+  ],
+  "links": [
+    {
+      "weight": 2.0,
+      "id": "0",
+      "target": "n0",
+      "source": "n1",
+      "value": "0"
+    }
+  ]
+}

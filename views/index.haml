@@ -1,0 +1,50 @@
+!!!
+%html
+  %head
+    %title Github Repo's over Time
+    %link{rel: "stylesheet", href: "css/reset.css"}
+    %link{rel: "stylesheet", href: "css/bootstrap.css"}
+    %link{rel: "stylesheet", href: "css/style.css"}
+    %link{rel: "stylesheet", href: "css/slider.css"}
+    %script{src: "js/jquery.js"}
+    %script{src: "js/coffee-script.js"}
+    %script{src: "js/d3.v2.js"}
+    %script{src: "js/Tooltip.js"}
+    %script{src: "js/bootstrap-slider.js"}
+    %script{type: "text/coffeescript", src: "coffee/vis.coffee"}
+    :javascript
+      var dates = #{@dates};
+      var repo = "#{@repo}";
+      var di = 0;
+      $(document).on("change", "#song_select", function(){window.location.replace("?repo="+$(this).val())});
+      $(document).ready(function(){
+        slider = $(".slider").slider('setValue', 0)
+        slider.on("slide", function(ev){
+          if (di != ev.value) {
+            di = ev.value;
+            $("#date").html(dates[di]);
+            $("#date").trigger("change");
+          }
+        });
+      });
+
+  %body
+    #container.container
+      %header
+        %h1 Github Repo Networks
+      #controls
+        #change.control
+          %h3 Change Graph
+          %input{type: "text", id: "#data-select", class: "slider", "data-slider-max" => @dates.count-1,
+          "data-slider-min" => 0, "data-slider-value" => 0, "data-slider-tooltip" => "hide"}
+          %span#date
+        #repo.control
+          %h3 Change Repo
+          %select#song_select
+            %option{value: "", selected: @repo==""} Choose a Repo
+            - @repos.each do |r|
+              %option{value: r, selected: r==@repo}= r.sub(/_/, "/")
+
+      #main{role: "main"}
+        #vis
+      %footer Data from api.github.com and githubarchive.org

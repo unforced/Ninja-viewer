@@ -1,0 +1,68 @@
+{
+  "nodes": [
+    {
+      "id": "n10",
+      "label": "stronk7"
+    },
+    {
+      "id": "n1",
+      "label": "samhemelryk"
+    },
+    {
+      "id": "n0",
+      "label": "sunner"
+    },
+    {
+      "id": "n11",
+      "label": "marwa89"
+    },
+    {
+      "id": "n5",
+      "label": "ankitagarwal"
+    },
+    {
+      "id": "n4",
+      "label": "nghiaht"
+    },
+    {
+      "id": "n3",
+      "label": "timhunt"
+    },
+    {
+      "id": "n2",
+      "label": "mwithheld"
+    },
+    {
+      "id": "n9",
+      "label": "markn86"
+    },
+    {
+      "id": "n8",
+      "label": "erd0s"
+    },
+    {
+      "id": "n7",
+      "label": "Andrew Davis"
+    },
+    {
+      "id": "n6",
+      "label": "obezuk"
+    }
+  ],
+  "links": [
+    {
+      "weight": 1.0,
+      "id": "1",
+      "target": "n6",
+      "source": "n7",
+      "value": "1"
+    },
+    {
+      "weight": 3.0,
+      "id": "0",
+      "target": "n0",
+      "source": "n1",
+      "value": "0"
+    }
+  ]
+}

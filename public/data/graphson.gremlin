@@ -1,0 +1,22 @@
+import java.util.regex.Matcher
+import java.util.regex.Pattern
+import groovy.io.FileType
+
+def dir = new File(".")
+def list = []
+dir.eachFileRecurse(FileType.FILES) { file ->
+  list << file.toString()
+}
+
+list.each() { file ->
+  if (file.matches(/.*graphml$/)) {
+    g = new TinkerGraph()
+    try {
+      g.loadGraphML(file)
+      g.saveGraphSON(file.replaceAll(/graphml$/, 'json'))
+    } catch(e) {
+      println(file)
+      println(e)
+    }
+  }
+}

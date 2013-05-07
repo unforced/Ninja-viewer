@@ -1,0 +1,41 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "moschel"
+    },
+    {
+      "id": "n0",
+      "label": "daniel-franz"
+    },
+    {
+      "id": "n5",
+      "label": "csosborn"
+    },
+    {
+      "id": "n4",
+      "label": "daffl"
+    },
+    {
+      "id": "n3",
+      "label": "ansjob"
+    },
+    {
+      "id": "n2",
+      "label": "kbh1983"
+    },
+    {
+      "id": "n6",
+      "label": "parisholley"
+    }
+  ],
+  "links": [
+    {
+      "weight": 3.0,
+      "id": "0",
+      "target": "n1",
+      "source": "n5",
+      "value": "0"
+    }
+  ]
+}

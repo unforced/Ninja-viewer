@@ -1,0 +1,255 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "stnguyen"
+    },
+    {
+      "id": "n23",
+      "label": "drxero"
+    },
+    {
+      "id": "n0",
+      "label": "purplecabbage"
+    },
+    {
+      "id": "n22",
+      "label": "nickopris"
+    },
+    {
+      "id": "n21",
+      "label": "chamarts"
+    },
+    {
+      "id": "n20",
+      "label": "Sanabria"
+    },
+    {
+      "id": "n5",
+      "label": "michahell"
+    },
+    {
+      "id": "n4",
+      "label": "gcatalfamo"
+    },
+    {
+      "id": "n3",
+      "label": "zaheerm"
+    },
+    {
+      "id": "n2",
+      "label": "gloob"
+    },
+    {
+      "id": "n9",
+      "label": "patrickomeara"
+    },
+    {
+      "id": "n8",
+      "label": "dvheghe"
+    },
+    {
+      "id": "n7",
+      "label": "fastone"
+    },
+    {
+      "id": "n6",
+      "label": "orbitaloop"
+    },
+    {
+      "id": "n28",
+      "label": "tikurahul"
+    },
+    {
+      "id": "n26",
+      "label": "iamit"
+    },
+    {
+      "id": "n27",
+      "label": "xizheng"
+    },
+    {
+      "id": "n24",
+      "label": "ysongfinance"
+    },
+    {
+      "id": "n25",
+      "label": "vicky-gonsalves"
+    },
+    {
+      "id": "n10",
+      "label": "digiguru"
+    },
+    {
+      "id": "n12",
+      "label": "GCaplain"
+    },
+    {
+      "id": "n11",
+      "label": "macdonst"
+    },
+    {
+      "id": "n17",
+      "label": "gorekee"
+    },
+    {
+      "id": "n18",
+      "label": "createthis"
+    },
+    {
+      "id": "n19",
+      "label": "kinszhang"
+    },
+    {
+      "id": "n13",
+      "label": "mrtian"
+    },
+    {
+      "id": "n14",
+      "label": "gnesher"
+    },
+    {
+      "id": "n15",
+      "label": "jcrutch"
+    },
+    {
+      "id": "n16",
+      "label": "russellharrower"
+    }
+  ],
+  "links": [
+    {
+      "weight": 1.0,
+      "id": "17",
+      "target": "n18",
+      "source": "n24",
+      "value": "17"
+    },
+    {
+      "weight": 1.0,
+      "id": "18",
+      "target": "n27",
+      "source": "n28",
+      "value": "18"
+    },
+    {
+      "weight": 3.0,
+      "id": "15",
+      "target": "n18",
+      "source": "n22",
+      "value": "15"
+    },
+    {
+      "weight": 1.0,
+      "id": "16",
+      "target": "n7",
+      "source": "n23",
+      "value": "16"
+    },
+    {
+      "weight": 2.0,
+      "id": "13",
+      "target": "n9",
+      "source": "n19",
+      "value": "13"
+    },
+    {
+      "weight": 1.0,
+      "id": "14",
+      "target": "n20",
+      "source": "n21",
+      "value": "14"
+    },
+    {
+      "weight": 3.0,
+      "id": "11",
+      "target": "n10",
+      "source": "n16",
+      "value": "11"
+    },
+    {
+      "weight": 2.0,
+      "id": "12",
+      "target": "n17",
+      "source": "n18",
+      "value": "12"
+    },
+    {
+      "weight": 6.0,
+      "id": "3",
+      "target": "n0",
+      "source": "n5",
+      "value": "3"
+    },
+    {
+      "weight": 1.0,
+      "id": "2",
+      "target": "n0",
+      "source": "n3",
+      "value": "2"
+    },
+    {
+      "weight": 3.0,
+      "id": "1",
+      "target": "n0",
+      "source": "n2",
+      "value": "1"
+    },
+    {
+      "weight": 3.0,
+      "id": "10",
+      "target": "n0",
+      "source": "n9",
+      "value": "10"
+    },
+    {
+      "weight": 6.0,
+      "id": "0",
+      "target": "n0",
+      "source": "n1",
+      "value": "0"
+    },
+    {
+      "weight": 3.0,
+      "id": "7",
+      "target": "n11",
+      "source": "n12",
+      "value": "7"
+    },
+    {
+      "weight": 3.0,
+      "id": "6",
+      "target": "n9",
+      "source": "n10",
+      "value": "6"
+    },
+    {
+      "weight": 3.0,
+      "id": "5",
+      "target": "n8",
+      "source": "n9",
+      "value": "5"
+    },
+    {
+      "weight": 1.0,
+      "id": "4",
+      "target": "n6",
+      "source": "n7",
+      "value": "4"
+    },
+    {
+      "weight": 1.0,
+      "id": "9",
+      "target": "n5",
+      "source": "n15",
+      "value": "9"
+    },
+    {
+      "weight": 2.0,
+      "id": "8",
+      "target": "n13",
+      "source": "n14",
+      "value": "8"
+    }
+  ]
+}

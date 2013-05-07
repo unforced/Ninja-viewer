@@ -1,0 +1,1684 @@
+{
+  "nodes": [
+    {
+      "id": "n41",
+      "label": "mjtamlyn"
+    },
+    {
+      "id": "n40",
+      "label": "meeech"
+    },
+    {
+      "id": "n45",
+      "label": "kangaechu"
+    },
+    {
+      "id": "n44",
+      "label": "csmuc"
+    },
+    {
+      "id": "n43",
+      "label": "dawsontoth"
+    },
+    {
+      "id": "n42",
+      "label": "euforic"
+    },
+    {
+      "id": "n92",
+      "label": "ygbr"
+    },
+    {
+      "id": "n91",
+      "label": "lingnet"
+    },
+    {
+      "id": "n90",
+      "label": "DustinHyde"
+    },
+    {
+      "id": "n96",
+      "label": "aaronksaunders"
+    },
+    {
+      "id": "n48",
+      "label": "mtnlife999"
+    },
+    {
+      "id": "n49",
+      "label": "edgithub"
+    },
+    {
+      "id": "n95",
+      "label": "hitdavid"
+    },
+    {
+      "id": "n46",
+      "label": "realpaul"
+    },
+    {
+      "id": "n94",
+      "label": "shepik"
+    },
+    {
+      "id": "n47",
+      "label": "dhcustom"
+    },
+    {
+      "id": "n93",
+      "label": "ryan5500"
+    },
+    {
+      "id": "n99",
+      "label": "ccavazos"
+    },
+    {
+      "id": "n98",
+      "label": "pdvsit"
+    },
+    {
+      "id": "n97",
+      "label": "ihor-r"
+    },
+    {
+      "id": "n30",
+      "label": "hal-gh"
+    },
+    {
+      "id": "n32",
+      "label": "jonalter"
+    },
+    {
+      "id": "n31",
+      "label": "matt-langston"
+    },
+    {
+      "id": "n34",
+      "label": "krowley"
+    },
+    {
+      "id": "n33",
+      "label": "ingo"
+    },
+    {
+      "id": "n35",
+      "label": "benbahrenburg"
+    },
+    {
+      "id": "n36",
+      "label": "steipete"
+    },
+    {
+      "id": "n37",
+      "label": "srijs"
+    },
+    {
+      "id": "n38",
+      "label": "CPep22"
+    },
+    {
+      "id": "n39",
+      "label": "pec1985"
+    },
+    {
+      "id": "n1",
+      "label": "mstepanov"
+    },
+    {
+      "id": "n23",
+      "label": "vishalduggal"
+    },
+    {
+      "id": "n109",
+      "label": "johncadengo"
+    },
+    {
+      "id": "n0",
+      "label": "farfromrefug"
+    },
+    {
+      "id": "n22",
+      "label": "dizzymonkey"
+    },
+    {
+      "id": "n21",
+      "label": "JeffEnglish"
+    },
+    {
+      "id": "n20",
+      "label": "joshthecoder"
+    },
+    {
+      "id": "n106",
+      "label": "pinnamur"
+    },
+    {
+      "id": "n5",
+      "label": "ayeung"
+    },
+    {
+      "id": "n105",
+      "label": "taxilian"
+    },
+    {
+      "id": "n4",
+      "label": "jhaynie"
+    },
+    {
+      "id": "n108",
+      "label": "saamyce"
+    },
+    {
+      "id": "n3",
+      "label": "srahim"
+    },
+    {
+      "id": "n107",
+      "label": "timanrebel"
+    },
+    {
+      "id": "n2",
+      "label": "alanleard"
+    },
+    {
+      "id": "n102",
+      "label": "mdpauley"
+    },
+    {
+      "id": "n9",
+      "label": "Allen Yeung"
+    },
+    {
+      "id": "n101",
+      "label": "iotashan"
+    },
+    {
+      "id": "n8",
+      "label": "sabonis"
+    },
+    {
+      "id": "n104",
+      "label": "quahada"
+    },
+    {
+      "id": "n7",
+      "label": "macCesar"
+    },
+    {
+      "id": "n103",
+      "label": "adamnuttall"
+    },
+    {
+      "id": "n6",
+      "label": "bryan-m-hughes"
+    },
+    {
+      "id": "n100",
+      "label": "elkouriabdelali"
+    },
+    {
+      "id": "n28",
+      "label": "arthurevans"
+    },
+    {
+      "id": "n29",
+      "label": "salachi"
+    },
+    {
+      "id": "n26",
+      "label": "sptramer"
+    },
+    {
+      "id": "n27",
+      "label": "marshall"
+    },
+    {
+      "id": "n24",
+      "label": "pingwang2011"
+    },
+    {
+      "id": "n25",
+      "label": "bhatfield"
+    },
+    {
+      "id": "n10",
+      "label": "tonylukasavage"
+    },
+    {
+      "id": "n12",
+      "label": "petervaradi"
+    },
+    {
+      "id": "n11",
+      "label": "hieupham007"
+    },
+    {
+      "id": "n114",
+      "label": "iskugor"
+    },
+    {
+      "id": "n113",
+      "label": "chermus"
+    },
+    {
+      "id": "n112",
+      "label": "dotnetCarpenter"
+    },
+    {
+      "id": "n111",
+      "label": "realsurfer"
+    },
+    {
+      "id": "n110",
+      "label": "wenpp"
+    },
+    {
+      "id": "n17",
+      "label": "cb1kenobi"
+    },
+    {
+      "id": "n18",
+      "label": "balltino"
+    },
+    {
+      "id": "n19",
+      "label": "billdawson"
+    },
+    {
+      "id": "n13",
+      "label": "BlainHamon"
+    },
+    {
+      "id": "n14",
+      "label": "lhgravendeel"
+    },
+    {
+      "id": "n15",
+      "label": "russfrank"
+    },
+    {
+      "id": "n16",
+      "label": "cbrunnkvist"
+    },
+    {
+      "id": "n80",
+      "label": "isis"
+    },
+    {
+      "id": "n81",
+      "label": "CBeloch"
+    },
+    {
+      "id": "n84",
+      "label": "davber"
+    },
+    {
+      "id": "n85",
+      "label": "Thomasappcel"
+    },
+    {
+      "id": "n82",
+      "label": "aboutjon"
+    },
+    {
+      "id": "n83",
+      "label": "ttsuru"
+    },
+    {
+      "id": "n88",
+      "label": "max"
+    },
+    {
+      "id": "n89",
+      "label": "kosso"
+    },
+    {
+      "id": "n86",
+      "label": "jespermjonsson"
+    },
+    {
+      "id": "n87",
+      "label": "SteveTrautmanPEI"
+    },
+    {
+      "id": "n70",
+      "label": "robsjc"
+    },
+    {
+      "id": "n71",
+      "label": "btknorr"
+    },
+    {
+      "id": "n72",
+      "label": "wluu"
+    },
+    {
+      "id": "n73",
+      "label": "eric34"
+    },
+    {
+      "id": "n74",
+      "label": "zofrex"
+    },
+    {
+      "id": "n75",
+      "label": "mattapperson"
+    },
+    {
+      "id": "n76",
+      "label": "jjosef"
+    },
+    {
+      "id": "n77",
+      "label": "mokesmokes"
+    },
+    {
+      "id": "n78",
+      "label": "herzi"
+    },
+    {
+      "id": "n79",
+      "label": "Kikimora"
+    },
+    {
+      "id": "n66",
+      "label": "javiermuniz"
+    },
+    {
+      "id": "n67",
+      "label": "vivekraveendran"
+    },
+    {
+      "id": "n64",
+      "label": "mmorearty"
+    },
+    {
+      "id": "n65",
+      "label": "jpl-mac"
+    },
+    {
+      "id": "n62",
+      "label": "alg"
+    },
+    {
+      "id": "n63",
+      "label": "twaddington"
+    },
+    {
+      "id": "n60",
+      "label": "juancgarcia"
+    },
+    {
+      "id": "n61",
+      "label": "yaroslavp-gl"
+    },
+    {
+      "id": "n69",
+      "label": "sreuter"
+    },
+    {
+      "id": "n68",
+      "label": "sgtcoolguy"
+    },
+    {
+      "id": "n53",
+      "label": "negupta"
+    },
+    {
+      "id": "n54",
+      "label": "bcarasco"
+    },
+    {
+      "id": "n55",
+      "label": "JiriChara"
+    },
+    {
+      "id": "n56",
+      "label": "joseitinerarium"
+    },
+    {
+      "id": "n50",
+      "label": "hdogan"
+    },
+    {
+      "id": "n51",
+      "label": "rafaelks"
+    },
+    {
+      "id": "n52",
+      "label": "aodukha"
+    },
+    {
+      "id": "n58",
+      "label": "joelthecoder"
+    },
+    {
+      "id": "n57",
+      "label": "VarunJoshi"
+    },
+    {
+      "id": "n59",
+      "label": "anirudhnagesh"
+    }
+  ],
+  "links": [
+    {
+      "weight": 12.0,
+      "id": "35",
+      "target": "n1",
+      "source": "n24",
+      "value": "35"
+    },
+    {
+      "weight": 190.0,
+      "id": "36",
+      "target": "n26",
+      "source": "n28",
+      "value": "36"
+    },
+    {
+      "weight": 2.0,
+      "id": "159",
+      "target": "n6",
+      "source": "n11",
+      "value": "159"
+    },
+    {
+      "weight": 96.0,
+      "id": "33",
+      "target": "n5",
+      "source": "n23",
+      "value": "33"
+    },
+    {
+      "weight": 2.0,
+      "id": "158",
+      "target": "n20",
+      "source": "n53",
+      "value": "158"
+    },
+    {
+      "weight": 18.0,
+      "id": "34",
+      "target": "n5",
+      "source": "n38",
+      "value": "34"
+    },
+    {
+      "weight": 3.0,
+      "id": "157",
+      "target": "n23",
+      "source": "n53",
+      "value": "157"
+    },
+    {
+      "weight": 44.0,
+      "id": "39",
+      "target": "n13",
+      "source": "n39",
+      "value": "39"
+    },
+    {
+      "weight": 4.0,
+      "id": "156",
+      "target": "n5",
+      "source": "n73",
+      "value": "156"
+    },
+    {
+      "weight": 4.0,
+      "id": "155",
+      "target": "n23",
+      "source": "n59",
+      "value": "155"
+    },
+    {
+      "weight": 134.0,
+      "id": "37",
+      "target": "n19",
+      "source": "n22",
+      "value": "37"
+    },
+    {
+      "weight": 2.0,
+      "id": "154",
+      "target": "n1",
+      "source": "n73",
+      "value": "154"
+    },
+    {
+      "weight": 222.0,
+      "id": "38",
+      "target": "n5",
+      "source": "n11",
+      "value": "38"
+    },
+    {
+      "weight": 3.0,
+      "id": "152",
+      "target": "n17",
+      "source": "n54",
+      "value": "152"
+    },
+    {
+      "weight": 6.0,
+      "id": "153",
+      "target": "n51",
+      "source": "n53",
+      "value": "153"
+    },
+    {
+      "weight": 4.0,
+      "id": "150",
+      "target": "n13",
+      "source": "n53",
+      "value": "150"
+    },
+    {
+      "weight": 4.0,
+      "id": "151",
+      "target": "n53",
+      "source": "n60",
+      "value": "151"
+    },
+    {
+      "weight": 15.0,
+      "id": "43",
+      "target": "n1",
+      "source": "n43",
+      "value": "43"
+    },
+    {
+      "weight": 30.0,
+      "id": "42",
+      "target": "n22",
+      "source": "n23",
+      "value": "42"
+    },
+    {
+      "weight": 8.0,
+      "id": "41",
+      "target": "n13",
+      "source": "n40",
+      "value": "41"
+    },
+    {
+      "weight": 55.0,
+      "id": "40",
+      "target": "n19",
+      "source": "n26",
+      "value": "40"
+    },
+    {
+      "weight": 145.0,
+      "id": "22",
+      "target": "n3",
+      "source": "n26",
+      "value": "22"
+    },
+    {
+      "weight": 3.0,
+      "id": "169",
+      "target": "n30",
+      "source": "n114",
+      "value": "169"
+    },
+    {
+      "weight": 56.0,
+      "id": "23",
+      "target": "n19",
+      "source": "n24",
+      "value": "23"
+    },
+    {
+      "weight": 58.0,
+      "id": "24",
+      "target": "n20",
+      "source": "n24",
+      "value": "24"
+    },
+    {
+      "weight": 28.0,
+      "id": "25",
+      "target": "n20",
+      "source": "n26",
+      "value": "25"
+    },
+    {
+      "weight": 2.0,
+      "id": "166",
+      "target": "n19",
+      "source": "n108",
+      "value": "166"
+    },
+    {
+      "weight": 154.0,
+      "id": "26",
+      "target": "n1",
+      "source": "n3",
+      "value": "26"
+    },
+    {
+      "weight": 3.0,
+      "id": "165",
+      "target": "n10",
+      "source": "n28",
+      "value": "165"
+    },
+    {
+      "weight": 106.0,
+      "id": "27",
+      "target": "n5",
+      "source": "n24",
+      "value": "27"
+    },
+    {
+      "weight": 2.0,
+      "id": "168",
+      "target": "n34",
+      "source": "n55",
+      "value": "168"
+    },
+    {
+      "weight": 9.0,
+      "id": "28",
+      "target": "n3",
+      "source": "n19",
+      "value": "28"
+    },
+    {
+      "weight": 2.0,
+      "id": "167",
+      "target": "n0",
+      "source": "n34",
+      "value": "167"
+    },
+    {
+      "weight": 76.0,
+      "id": "29",
+      "target": "n1",
+      "source": "n13",
+      "value": "29"
+    },
+    {
+      "weight": 2.0,
+      "id": "161",
+      "target": "n0",
+      "source": "n19",
+      "value": "161"
+    },
+    {
+      "weight": 585.0,
+      "id": "3",
+      "target": "n6",
+      "source": "n17",
+      "value": "3"
+    },
+    {
+      "weight": 3.0,
+      "id": "162",
+      "target": "n26",
+      "source": "n105",
+      "value": "162"
+    },
+    {
+      "weight": 6.0,
+      "id": "2",
+      "target": "n20",
+      "source": "n21",
+      "value": "2"
+    },
+    {
+      "weight": 3.0,
+      "id": "163",
+      "target": "n23",
+      "source": "n40",
+      "value": "163"
+    },
+    {
+      "weight": 211.0,
+      "id": "1",
+      "target": "n5",
+      "source": "n19",
+      "value": "1"
+    },
+    {
+      "weight": 6.0,
+      "id": "164",
+      "target": "n11",
+      "source": "n53",
+      "value": "164"
+    },
+    {
+      "weight": 3.0,
+      "id": "0",
+      "target": "n1",
+      "source": "n2",
+      "value": "0"
+    },
+    {
+      "weight": 162.0,
+      "id": "30",
+      "target": "n22",
+      "source": "n26",
+      "value": "30"
+    },
+    {
+      "weight": 449.0,
+      "id": "7",
+      "target": "n3",
+      "source": "n23",
+      "value": "7"
+    },
+    {
+      "weight": 67.0,
+      "id": "6",
+      "target": "n23",
+      "source": "n24",
+      "value": "6"
+    },
+    {
+      "weight": 82.0,
+      "id": "32",
+      "target": "n5",
+      "source": "n22",
+      "value": "32"
+    },
+    {
+      "weight": 376.0,
+      "id": "5",
+      "target": "n1",
+      "source": "n23",
+      "value": "5"
+    },
+    {
+      "weight": 3.0,
+      "id": "160",
+      "target": "n17",
+      "source": "n43",
+      "value": "160"
+    },
+    {
+      "weight": 53.0,
+      "id": "31",
+      "target": "n1",
+      "source": "n5",
+      "value": "31"
+    },
+    {
+      "weight": 146.0,
+      "id": "4",
+      "target": "n11",
+      "source": "n22",
+      "value": "4"
+    },
+    {
+      "weight": 12.0,
+      "id": "9",
+      "target": "n27",
+      "source": "n28",
+      "value": "9"
+    },
+    {
+      "weight": 270.0,
+      "id": "8",
+      "target": "n13",
+      "source": "n26",
+      "value": "8"
+    },
+    {
+      "weight": 63.0,
+      "id": "19",
+      "target": "n13",
+      "source": "n30",
+      "value": "19"
+    },
+    {
+      "weight": 79.0,
+      "id": "17",
+      "target": "n1",
+      "source": "n28",
+      "value": "17"
+    },
+    {
+      "weight": 286.0,
+      "id": "18",
+      "target": "n1",
+      "source": "n26",
+      "value": "18"
+    },
+    {
+      "weight": 249.0,
+      "id": "15",
+      "target": "n6",
+      "source": "n30",
+      "value": "15"
+    },
+    {
+      "weight": 11.0,
+      "id": "16",
+      "target": "n20",
+      "source": "n23",
+      "value": "16"
+    },
+    {
+      "weight": 96.0,
+      "id": "13",
+      "target": "n3",
+      "source": "n30",
+      "value": "13"
+    },
+    {
+      "weight": 178.0,
+      "id": "14",
+      "target": "n13",
+      "source": "n23",
+      "value": "14"
+    },
+    {
+      "weight": 444.0,
+      "id": "11",
+      "target": "n23",
+      "source": "n26",
+      "value": "11"
+    },
+    {
+      "weight": 95.0,
+      "id": "12",
+      "target": "n11",
+      "source": "n24",
+      "value": "12"
+    },
+    {
+      "weight": 3.0,
+      "id": "170",
+      "target": "n39",
+      "source": "n43",
+      "value": "170"
+    },
+    {
+      "weight": 147.0,
+      "id": "21",
+      "target": "n19",
+      "source": "n20",
+      "value": "21"
+    },
+    {
+      "weight": 2.0,
+      "id": "171",
+      "target": "n26",
+      "source": "n43",
+      "value": "171"
+    },
+    {
+      "weight": 30.0,
+      "id": "20",
+      "target": "n20",
+      "source": "n28",
+      "value": "20"
+    },
+    {
+      "weight": 39.0,
+      "id": "109",
+      "target": "n11",
+      "source": "n30",
+      "value": "109"
+    },
+    {
+      "weight": 3.0,
+      "id": "172",
+      "target": "n28",
+      "source": "n39",
+      "value": "172"
+    },
+    {
+      "weight": 30.0,
+      "id": "108",
+      "target": "n21",
+      "source": "n28",
+      "value": "108"
+    },
+    {
+      "weight": 4.0,
+      "id": "173",
+      "target": "n8",
+      "source": "n20",
+      "value": "173"
+    },
+    {
+      "weight": 12.0,
+      "id": "107",
+      "target": "n26",
+      "source": "n54",
+      "value": "107"
+    },
+    {
+      "weight": 173.0,
+      "id": "106",
+      "target": "n6",
+      "source": "n28",
+      "value": "106"
+    },
+    {
+      "weight": 14.0,
+      "id": "105",
+      "target": "n20",
+      "source": "n59",
+      "value": "105"
+    },
+    {
+      "weight": 12.0,
+      "id": "104",
+      "target": "n5",
+      "source": "n21",
+      "value": "104"
+    },
+    {
+      "weight": 6.0,
+      "id": "103",
+      "target": "n3",
+      "source": "n20",
+      "value": "103"
+    },
+    {
+      "weight": 12.0,
+      "id": "102",
+      "target": "n0",
+      "source": "n13",
+      "value": "102"
+    },
+    {
+      "weight": 24.0,
+      "id": "99",
+      "target": "n1",
+      "source": "n15",
+      "value": "99"
+    },
+    {
+      "weight": 24.0,
+      "id": "101",
+      "target": "n13",
+      "source": "n15",
+      "value": "101"
+    },
+    {
+      "weight": 6.0,
+      "id": "100",
+      "target": "n1",
+      "source": "n39",
+      "value": "100"
+    },
+    {
+      "weight": 10.0,
+      "id": "98",
+      "target": "n53",
+      "source": "n63",
+      "value": "98"
+    },
+    {
+      "weight": 6.0,
+      "id": "97",
+      "target": "n0",
+      "source": "n1",
+      "value": "97"
+    },
+    {
+      "weight": 10.0,
+      "id": "96",
+      "target": "n11",
+      "source": "n62",
+      "value": "96"
+    },
+    {
+      "weight": 6.0,
+      "id": "95",
+      "target": "n21",
+      "source": "n27",
+      "value": "95"
+    },
+    {
+      "weight": 3.0,
+      "id": "94",
+      "target": "n23",
+      "source": "n43",
+      "value": "94"
+    },
+    {
+      "weight": 110.0,
+      "id": "93",
+      "target": "n23",
+      "source": "n28",
+      "value": "93"
+    },
+    {
+      "weight": 7.0,
+      "id": "92",
+      "target": "n1",
+      "source": "n51",
+      "value": "92"
+    },
+    {
+      "weight": 16.0,
+      "id": "91",
+      "target": "n1",
+      "source": "n40",
+      "value": "91"
+    },
+    {
+      "weight": 15.0,
+      "id": "90",
+      "target": "n15",
+      "source": "n28",
+      "value": "90"
+    },
+    {
+      "weight": 57.0,
+      "id": "10",
+      "target": "n19",
+      "source": "n28",
+      "value": "10"
+    },
+    {
+      "weight": 3.0,
+      "id": "88",
+      "target": "n27",
+      "source": "n30",
+      "value": "88"
+    },
+    {
+      "weight": 37.0,
+      "id": "89",
+      "target": "n10",
+      "source": "n22",
+      "value": "89"
+    },
+    {
+      "weight": 5.0,
+      "id": "116",
+      "target": "n5",
+      "source": "n53",
+      "value": "116"
+    },
+    {
+      "weight": 6.0,
+      "id": "117",
+      "target": "n13",
+      "source": "n28",
+      "value": "117"
+    },
+    {
+      "weight": 4.0,
+      "id": "79",
+      "target": "n0",
+      "source": "n20",
+      "value": "79"
+    },
+    {
+      "weight": 6.0,
+      "id": "114",
+      "target": "n1",
+      "source": "n53",
+      "value": "114"
+    },
+    {
+      "weight": 10.0,
+      "id": "78",
+      "target": "n11",
+      "source": "n13",
+      "value": "78"
+    },
+    {
+      "weight": 6.0,
+      "id": "115",
+      "target": "n21",
+      "source": "n30",
+      "value": "115"
+    },
+    {
+      "weight": 26.0,
+      "id": "77",
+      "target": "n3",
+      "source": "n28",
+      "value": "77"
+    },
+    {
+      "weight": 20.0,
+      "id": "112",
+      "target": "n17",
+      "source": "n28",
+      "value": "112"
+    },
+    {
+      "weight": 17.0,
+      "id": "113",
+      "target": "n45",
+      "source": "n53",
+      "value": "113"
+    },
+    {
+      "weight": 20.0,
+      "id": "110",
+      "target": "n22",
+      "source": "n70",
+      "value": "110"
+    },
+    {
+      "weight": 6.0,
+      "id": "111",
+      "target": "n15",
+      "source": "n53",
+      "value": "111"
+    },
+    {
+      "weight": 15.0,
+      "id": "118",
+      "target": "n10",
+      "source": "n11",
+      "value": "118"
+    },
+    {
+      "weight": 3.0,
+      "id": "119",
+      "target": "n10",
+      "source": "n20",
+      "value": "119"
+    },
+    {
+      "weight": 39.0,
+      "id": "82",
+      "target": "n11",
+      "source": "n28",
+      "value": "82"
+    },
+    {
+      "weight": 18.0,
+      "id": "83",
+      "target": "n28",
+      "source": "n43",
+      "value": "83"
+    },
+    {
+      "weight": 31.0,
+      "id": "80",
+      "target": "n24",
+      "source": "n28",
+      "value": "80"
+    },
+    {
+      "weight": 4.0,
+      "id": "81",
+      "target": "n26",
+      "source": "n51",
+      "value": "81"
+    },
+    {
+      "weight": 102.0,
+      "id": "86",
+      "target": "n28",
+      "source": "n30",
+      "value": "86"
+    },
+    {
+      "weight": 36.0,
+      "id": "87",
+      "target": "n1",
+      "source": "n30",
+      "value": "87"
+    },
+    {
+      "weight": 9.0,
+      "id": "84",
+      "target": "n6",
+      "source": "n39",
+      "value": "84"
+    },
+    {
+      "weight": 11.0,
+      "id": "85",
+      "target": "n53",
+      "source": "n54",
+      "value": "85"
+    },
+    {
+      "weight": 3.0,
+      "id": "125",
+      "target": "n13",
+      "source": "n72",
+      "value": "125"
+    },
+    {
+      "weight": 9.0,
+      "id": "67",
+      "target": "n5",
+      "source": "n27",
+      "value": "67"
+    },
+    {
+      "weight": 18.0,
+      "id": "126",
+      "target": "n24",
+      "source": "n43",
+      "value": "126"
+    },
+    {
+      "weight": 33.0,
+      "id": "66",
+      "target": "n15",
+      "source": "n19",
+      "value": "66"
+    },
+    {
+      "weight": 12.0,
+      "id": "127",
+      "target": "n19",
+      "source": "n21",
+      "value": "127"
+    },
+    {
+      "weight": 114.0,
+      "id": "69",
+      "target": "n11",
+      "source": "n23",
+      "value": "69"
+    },
+    {
+      "weight": 6.0,
+      "id": "128",
+      "target": "n30",
+      "source": "n43",
+      "value": "128"
+    },
+    {
+      "weight": 24.0,
+      "id": "68",
+      "target": "n21",
+      "source": "n43",
+      "value": "68"
+    },
+    {
+      "weight": 20.0,
+      "id": "121",
+      "target": "n17",
+      "source": "n26",
+      "value": "121"
+    },
+    {
+      "weight": 6.0,
+      "id": "122",
+      "target": "n53",
+      "source": "n58",
+      "value": "122"
+    },
+    {
+      "weight": 22.0,
+      "id": "123",
+      "target": "n0",
+      "source": "n53",
+      "value": "123"
+    },
+    {
+      "weight": 4.0,
+      "id": "124",
+      "target": "n53",
+      "source": "n55",
+      "value": "124"
+    },
+    {
+      "weight": 6.0,
+      "id": "129",
+      "target": "n26",
+      "source": "n27",
+      "value": "129"
+    },
+    {
+      "weight": 118.0,
+      "id": "70",
+      "target": "n11",
+      "source": "n19",
+      "value": "70"
+    },
+    {
+      "weight": 6.0,
+      "id": "120",
+      "target": "n17",
+      "source": "n30",
+      "value": "120"
+    },
+    {
+      "weight": 95.0,
+      "id": "71",
+      "target": "n22",
+      "source": "n28",
+      "value": "71"
+    },
+    {
+      "weight": 54.0,
+      "id": "72",
+      "target": "n24",
+      "source": "n30",
+      "value": "72"
+    },
+    {
+      "weight": 3.0,
+      "id": "73",
+      "target": "n20",
+      "source": "n27",
+      "value": "73"
+    },
+    {
+      "weight": 45.0,
+      "id": "74",
+      "target": "n19",
+      "source": "n30",
+      "value": "74"
+    },
+    {
+      "weight": 9.0,
+      "id": "75",
+      "target": "n27",
+      "source": "n43",
+      "value": "75"
+    },
+    {
+      "weight": 48.0,
+      "id": "76",
+      "target": "n22",
+      "source": "n30",
+      "value": "76"
+    },
+    {
+      "weight": 12.0,
+      "id": "134",
+      "target": "n13",
+      "source": "n43",
+      "value": "134"
+    },
+    {
+      "weight": 3.0,
+      "id": "135",
+      "target": "n21",
+      "source": "n70",
+      "value": "135"
+    },
+    {
+      "weight": 21.0,
+      "id": "132",
+      "target": "n5",
+      "source": "n30",
+      "value": "132"
+    },
+    {
+      "weight": 6.0,
+      "id": "133",
+      "target": "n43",
+      "source": "n72",
+      "value": "133"
+    },
+    {
+      "weight": 9.0,
+      "id": "59",
+      "target": "n20",
+      "source": "n30",
+      "value": "59"
+    },
+    {
+      "weight": 8.0,
+      "id": "138",
+      "target": "n13",
+      "source": "n56",
+      "value": "138"
+    },
+    {
+      "weight": 133.0,
+      "id": "58",
+      "target": "n3",
+      "source": "n13",
+      "value": "58"
+    },
+    {
+      "weight": 9.0,
+      "id": "139",
+      "target": "n10",
+      "source": "n53",
+      "value": "139"
+    },
+    {
+      "weight": 45.0,
+      "id": "57",
+      "target": "n22",
+      "source": "n24",
+      "value": "57"
+    },
+    {
+      "weight": 8.0,
+      "id": "136",
+      "target": "n53",
+      "source": "n62",
+      "value": "136"
+    },
+    {
+      "weight": 44.0,
+      "id": "56",
+      "target": "n1",
+      "source": "n22",
+      "value": "56"
+    },
+    {
+      "weight": 6.0,
+      "id": "137",
+      "target": "n44",
+      "source": "n53",
+      "value": "137"
+    },
+    {
+      "weight": 31.0,
+      "id": "55",
+      "target": "n20",
+      "source": "n45",
+      "value": "55"
+    },
+    {
+      "weight": 28.0,
+      "id": "64",
+      "target": "n5",
+      "source": "n26",
+      "value": "64"
+    },
+    {
+      "weight": 6.0,
+      "id": "65",
+      "target": "n5",
+      "source": "n10",
+      "value": "65"
+    },
+    {
+      "weight": 15.0,
+      "id": "62",
+      "target": "n13",
+      "source": "n19",
+      "value": "62"
+    },
+    {
+      "weight": 71.0,
+      "id": "63",
+      "target": "n1",
+      "source": "n19",
+      "value": "63"
+    },
+    {
+      "weight": 3.0,
+      "id": "131",
+      "target": "n26",
+      "source": "n73",
+      "value": "131"
+    },
+    {
+      "weight": 8.0,
+      "id": "60",
+      "target": "n5",
+      "source": "n34",
+      "value": "60"
+    },
+    {
+      "weight": 8.0,
+      "id": "130",
+      "target": "n13",
+      "source": "n58",
+      "value": "130"
+    },
+    {
+      "weight": 9.0,
+      "id": "61",
+      "target": "n1",
+      "source": "n47",
+      "value": "61"
+    },
+    {
+      "weight": 2.0,
+      "id": "143",
+      "target": "n22",
+      "source": "n90",
+      "value": "143"
+    },
+    {
+      "weight": 82.0,
+      "id": "49",
+      "target": "n20",
+      "source": "n22",
+      "value": "49"
+    },
+    {
+      "weight": 3.0,
+      "id": "144",
+      "target": "n11",
+      "source": "n43",
+      "value": "144"
+    },
+    {
+      "weight": 39.0,
+      "id": "48",
+      "target": "n26",
+      "source": "n30",
+      "value": "48"
+    },
+    {
+      "weight": 6.0,
+      "id": "145",
+      "target": "n53",
+      "source": "n59",
+      "value": "145"
+    },
+    {
+      "weight": 8.0,
+      "id": "146",
+      "target": "n53",
+      "source": "n64",
+      "value": "146"
+    },
+    {
+      "weight": 10.0,
+      "id": "147",
+      "target": "n40",
+      "source": "n53",
+      "value": "147"
+    },
+    {
+      "weight": 92.0,
+      "id": "45",
+      "target": "n11",
+      "source": "n20",
+      "value": "45"
+    },
+    {
+      "weight": 26.0,
+      "id": "148",
+      "target": "n0",
+      "source": "n23",
+      "value": "148"
+    },
+    {
+      "weight": 97.0,
+      "id": "44",
+      "target": "n5",
+      "source": "n20",
+      "value": "44"
+    },
+    {
+      "weight": 2.0,
+      "id": "149",
+      "target": "n6",
+      "source": "n85",
+      "value": "149"
+    },
+    {
+      "weight": 69.0,
+      "id": "47",
+      "target": "n23",
+      "source": "n30",
+      "value": "47"
+    },
+    {
+      "weight": 45.0,
+      "id": "46",
+      "target": "n19",
+      "source": "n27",
+      "value": "46"
+    },
+    {
+      "weight": 67.0,
+      "id": "51",
+      "target": "n21",
+      "source": "n24",
+      "value": "51"
+    },
+    {
+      "weight": 21.0,
+      "id": "52",
+      "target": "n3",
+      "source": "n5",
+      "value": "52"
+    },
+    {
+      "weight": 168.0,
+      "id": "53",
+      "target": "n5",
+      "source": "n28",
+      "value": "53"
+    },
+    {
+      "weight": 40.0,
+      "id": "54",
+      "target": "n17",
+      "source": "n22",
+      "value": "54"
+    },
+    {
+      "weight": 6.0,
+      "id": "140",
+      "target": "n47",
+      "source": "n53",
+      "value": "140"
+    },
+    {
+      "weight": 5.0,
+      "id": "142",
+      "target": "n53",
+      "source": "n56",
+      "value": "142"
+    },
+    {
+      "weight": 3.0,
+      "id": "141",
+      "target": "n20",
+      "source": "n43",
+      "value": "141"
+    },
+    {
+      "weight": 15.0,
+      "id": "50",
+      "target": "n13",
+      "source": "n44",
+      "value": "50"
+    }
+  ]
+}

@@ -1,0 +1,650 @@
+{
+  "nodes": [
+    {
+      "id": "n41",
+      "label": "mogetutu"
+    },
+    {
+      "id": "n40",
+      "label": "mattwidmann"
+    },
+    {
+      "id": "n45",
+      "label": "oschrenk"
+    },
+    {
+      "id": "n44",
+      "label": "jiMuBao"
+    },
+    {
+      "id": "n43",
+      "label": "clawfire"
+    },
+    {
+      "id": "n42",
+      "label": "vaxXxa"
+    },
+    {
+      "id": "n92",
+      "label": "renstrom"
+    },
+    {
+      "id": "n91",
+      "label": "sapegin"
+    },
+    {
+      "id": "n90",
+      "label": "tabibzadeh"
+    },
+    {
+      "id": "n96",
+      "label": "mphorton40"
+    },
+    {
+      "id": "n48",
+      "label": "bleen"
+    },
+    {
+      "id": "n49",
+      "label": "alrra"
+    },
+    {
+      "id": "n95",
+      "label": "paulirish"
+    },
+    {
+      "id": "n46",
+      "label": "sindresorhus"
+    },
+    {
+      "id": "n94",
+      "label": "cowboy"
+    },
+    {
+      "id": "n47",
+      "label": "aristidesfl"
+    },
+    {
+      "id": "n93",
+      "label": "Rowno"
+    },
+    {
+      "id": "n99",
+      "label": "swehack"
+    },
+    {
+      "id": "n98",
+      "label": "Tyler-Anderson"
+    },
+    {
+      "id": "n97",
+      "label": "dserodio"
+    },
+    {
+      "id": "n30",
+      "label": "khalifenizar"
+    },
+    {
+      "id": "n32",
+      "label": "richo"
+    },
+    {
+      "id": "n31",
+      "label": "bdzs"
+    },
+    {
+      "id": "n34",
+      "label": "KeyboardCowboy5"
+    },
+    {
+      "id": "n33",
+      "label": "TheJohlin"
+    },
+    {
+      "id": "n35",
+      "label": "josh-"
+    },
+    {
+      "id": "n36",
+      "label": "flxf"
+    },
+    {
+      "id": "n37",
+      "label": "eins78"
+    },
+    {
+      "id": "n38",
+      "label": "hongymagic"
+    },
+    {
+      "id": "n39",
+      "label": "atdt"
+    },
+    {
+      "id": "n1",
+      "label": "wimleers"
+    },
+    {
+      "id": "n23",
+      "label": "thanpolas"
+    },
+    {
+      "id": "n0",
+      "label": "mathiasbynens"
+    },
+    {
+      "id": "n22",
+      "label": "SomeWhores"
+    },
+    {
+      "id": "n21",
+      "label": "nurtext"
+    },
+    {
+      "id": "n20",
+      "label": "kevinlawler"
+    },
+    {
+      "id": "n5",
+      "label": "rudolph9"
+    },
+    {
+      "id": "n4",
+      "label": "Willey1986"
+    },
+    {
+      "id": "n3",
+      "label": "KingScooty"
+    },
+    {
+      "id": "n2",
+      "label": "mourawaldson"
+    },
+    {
+      "id": "n102",
+      "label": "cborgia"
+    },
+    {
+      "id": "n9",
+      "label": "verysofttoiletpaper"
+    },
+    {
+      "id": "n101",
+      "label": "Cottser"
+    },
+    {
+      "id": "n8",
+      "label": "ProLoser"
+    },
+    {
+      "id": "n104",
+      "label": "jonschwenn"
+    },
+    {
+      "id": "n7",
+      "label": "superwills"
+    },
+    {
+      "id": "n103",
+      "label": "martin-spil-reurings"
+    },
+    {
+      "id": "n6",
+      "label": "necolas"
+    },
+    {
+      "id": "n100",
+      "label": "greghendershott"
+    },
+    {
+      "id": "n28",
+      "label": "kevinSuttle"
+    },
+    {
+      "id": "n29",
+      "label": "nateober"
+    },
+    {
+      "id": "n26",
+      "label": "jfmercer"
+    },
+    {
+      "id": "n27",
+      "label": "user996015"
+    },
+    {
+      "id": "n24",
+      "label": "porada"
+    },
+    {
+      "id": "n25",
+      "label": "nikolavp"
+    },
+    {
+      "id": "n10",
+      "label": "AJ-Acevedo"
+    },
+    {
+      "id": "n12",
+      "label": "manix84"
+    },
+    {
+      "id": "n11",
+      "label": "sorahn"
+    },
+    {
+      "id": "n17",
+      "label": "sjonnet19"
+    },
+    {
+      "id": "n18",
+      "label": "jessejlt"
+    },
+    {
+      "id": "n19",
+      "label": "ekinertac"
+    },
+    {
+      "id": "n13",
+      "label": "mrpollo"
+    },
+    {
+      "id": "n14",
+      "label": "jonmz"
+    },
+    {
+      "id": "n15",
+      "label": "fruityth1ng"
+    },
+    {
+      "id": "n16",
+      "label": "Alex-Humphreys"
+    },
+    {
+      "id": "n80",
+      "label": "dlehman"
+    },
+    {
+      "id": "n81",
+      "label": "heavymark"
+    },
+    {
+      "id": "n84",
+      "label": "hencohen"
+    },
+    {
+      "id": "n85",
+      "label": "pableu"
+    },
+    {
+      "id": "n82",
+      "label": "jacobwg"
+    },
+    {
+      "id": "n83",
+      "label": "athompson-apm"
+    },
+    {
+      "id": "n88",
+      "label": "earaya"
+    },
+    {
+      "id": "n89",
+      "label": "Tatsh"
+    },
+    {
+      "id": "n86",
+      "label": "knutwalker"
+    },
+    {
+      "id": "n87",
+      "label": "davidhund"
+    },
+    {
+      "id": "n70",
+      "label": "oxyc"
+    },
+    {
+      "id": "n71",
+      "label": "wamatt"
+    },
+    {
+      "id": "n72",
+      "label": "kitcambridge"
+    },
+    {
+      "id": "n73",
+      "label": "RomainMuller"
+    },
+    {
+      "id": "n74",
+      "label": "janmoesen"
+    },
+    {
+      "id": "n75",
+      "label": "bitops"
+    },
+    {
+      "id": "n76",
+      "label": "cameronmalek"
+    },
+    {
+      "id": "n77",
+      "label": "kriogenx0"
+    },
+    {
+      "id": "n78",
+      "label": "MozMorris"
+    },
+    {
+      "id": "n79",
+      "label": "jenrzzz"
+    },
+    {
+      "id": "n66",
+      "label": "vitorgalvao"
+    },
+    {
+      "id": "n67",
+      "label": "windgazer"
+    },
+    {
+      "id": "n64",
+      "label": "stephenmathieson"
+    },
+    {
+      "id": "n65",
+      "label": "dmedvinsky"
+    },
+    {
+      "id": "n62",
+      "label": "ksmandersen"
+    },
+    {
+      "id": "n63",
+      "label": "nicolahery"
+    },
+    {
+      "id": "n60",
+      "label": "mattes"
+    },
+    {
+      "id": "n61",
+      "label": "pearofducks"
+    },
+    {
+      "id": "n69",
+      "label": "sourcerer-mike"
+    },
+    {
+      "id": "n68",
+      "label": "xol"
+    },
+    {
+      "id": "n53",
+      "label": "matijs"
+    },
+    {
+      "id": "n54",
+      "label": "heinekev"
+    },
+    {
+      "id": "n55",
+      "label": "nvartolomei"
+    },
+    {
+      "id": "n56",
+      "label": "shanev"
+    },
+    {
+      "id": "n50",
+      "label": "androwis"
+    },
+    {
+      "id": "n51",
+      "label": "BreadAndButter"
+    },
+    {
+      "id": "n52",
+      "label": "bachelorbob"
+    },
+    {
+      "id": "n58",
+      "label": "gabrielizaias"
+    },
+    {
+      "id": "n57",
+      "label": "chrisdl"
+    },
+    {
+      "id": "n59",
+      "label": "inexion"
+    }
+  ],
+  "links": [
+    {
+      "weight": 9.0,
+      "id": "19",
+      "target": "n0",
+      "source": "n39",
+      "value": "19"
+    },
+    {
+      "weight": 6.0,
+      "id": "17",
+      "target": "n0",
+      "source": "n34",
+      "value": "17"
+    },
+    {
+      "weight": 6.0,
+      "id": "18",
+      "target": "n0",
+      "source": "n36",
+      "value": "18"
+    },
+    {
+      "weight": 6.0,
+      "id": "15",
+      "target": "n0",
+      "source": "n32",
+      "value": "15"
+    },
+    {
+      "weight": 9.0,
+      "id": "16",
+      "target": "n0",
+      "source": "n33",
+      "value": "16"
+    },
+    {
+      "weight": 6.0,
+      "id": "13",
+      "target": "n0",
+      "source": "n25",
+      "value": "13"
+    },
+    {
+      "weight": 34.0,
+      "id": "14",
+      "target": "n0",
+      "source": "n27",
+      "value": "14"
+    },
+    {
+      "weight": 6.0,
+      "id": "11",
+      "target": "n0",
+      "source": "n21",
+      "value": "11"
+    },
+    {
+      "weight": 12.0,
+      "id": "12",
+      "target": "n0",
+      "source": "n22",
+      "value": "12"
+    },
+    {
+      "weight": 6.0,
+      "id": "21",
+      "target": "n32",
+      "source": "n33",
+      "value": "21"
+    },
+    {
+      "weight": 6.0,
+      "id": "20",
+      "target": "n0",
+      "source": "n47",
+      "value": "20"
+    },
+    {
+      "weight": 4.0,
+      "id": "22",
+      "target": "n6",
+      "source": "n32",
+      "value": "22"
+    },
+    {
+      "weight": 3.0,
+      "id": "23",
+      "target": "n9",
+      "source": "n65",
+      "value": "23"
+    },
+    {
+      "weight": 8.0,
+      "id": "24",
+      "target": "n27",
+      "source": "n46",
+      "value": "24"
+    },
+    {
+      "weight": 2.0,
+      "id": "25",
+      "target": "n6",
+      "source": "n46",
+      "value": "25"
+    },
+    {
+      "weight": 3.0,
+      "id": "26",
+      "target": "n6",
+      "source": "n17",
+      "value": "26"
+    },
+    {
+      "weight": 2.0,
+      "id": "27",
+      "target": "n27",
+      "source": "n75",
+      "value": "27"
+    },
+    {
+      "weight": 4.0,
+      "id": "28",
+      "target": "n27",
+      "source": "n32",
+      "value": "28"
+    },
+    {
+      "weight": 6.0,
+      "id": "29",
+      "target": "n47",
+      "source": "n78",
+      "value": "29"
+    },
+    {
+      "weight": 6.0,
+      "id": "3",
+      "target": "n0",
+      "source": "n9",
+      "value": "3"
+    },
+    {
+      "weight": 25.0,
+      "id": "2",
+      "target": "n0",
+      "source": "n6",
+      "value": "2"
+    },
+    {
+      "weight": 6.0,
+      "id": "10",
+      "target": "n0",
+      "source": "n20",
+      "value": "10"
+    },
+    {
+      "weight": 4.0,
+      "id": "1",
+      "target": "n0",
+      "source": "n3",
+      "value": "1"
+    },
+    {
+      "weight": 21.0,
+      "id": "0",
+      "target": "n0",
+      "source": "n1",
+      "value": "0"
+    },
+    {
+      "weight": 2.0,
+      "id": "30",
+      "target": "n3",
+      "source": "n79",
+      "value": "30"
+    },
+    {
+      "weight": 8.0,
+      "id": "7",
+      "target": "n0",
+      "source": "n17",
+      "value": "7"
+    },
+    {
+      "weight": 6.0,
+      "id": "6",
+      "target": "n0",
+      "source": "n16",
+      "value": "6"
+    },
+    {
+      "weight": 6.0,
+      "id": "5",
+      "target": "n0",
+      "source": "n15",
+      "value": "5"
+    },
+    {
+      "weight": 2.0,
+      "id": "31",
+      "target": "n0",
+      "source": "n87",
+      "value": "31"
+    },
+    {
+      "weight": 4.0,
+      "id": "4",
+      "target": "n0",
+      "source": "n12",
+      "value": "4"
+    },
+    {
+      "weight": 6.0,
+      "id": "9",
+      "target": "n0",
+      "source": "n19",
+      "value": "9"
+    },
+    {
+      "weight": 6.0,
+      "id": "8",
+      "target": "n0",
+      "source": "n18",
+      "value": "8"
+    }
+  ]
+}

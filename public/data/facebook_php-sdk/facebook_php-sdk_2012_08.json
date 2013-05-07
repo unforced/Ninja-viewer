@@ -1,0 +1,125 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "ptarjan"
+    },
+    {
+      "id": "n10",
+      "label": "colmdoyle"
+    },
+    {
+      "id": "n0",
+      "label": "roudix"
+    },
+    {
+      "id": "n12",
+      "label": "scottmac"
+    },
+    {
+      "id": "n20",
+      "label": "inputx"
+    },
+    {
+      "id": "n11",
+      "label": "harrycorazon"
+    },
+    {
+      "id": "n5",
+      "label": "akayoshi01"
+    },
+    {
+      "id": "n4",
+      "label": "cchandurkar"
+    },
+    {
+      "id": "n3",
+      "label": "mattwkelly"
+    },
+    {
+      "id": "n2",
+      "label": "legendeecoffee"
+    },
+    {
+      "id": "n9",
+      "label": "cameronscott"
+    },
+    {
+      "id": "n8",
+      "label": "WizKid"
+    },
+    {
+      "id": "n7",
+      "label": "xiangchao027"
+    },
+    {
+      "id": "n6",
+      "label": "xxbastekxx"
+    },
+    {
+      "id": "n17",
+      "label": "oyvindkinsey"
+    },
+    {
+      "id": "n18",
+      "label": "ihildebrandt"
+    },
+    {
+      "id": "n19",
+      "label": "Robert1995"
+    },
+    {
+      "id": "n13",
+      "label": "ri1992shi"
+    },
+    {
+      "id": "n14",
+      "label": "stephpy"
+    },
+    {
+      "id": "n15",
+      "label": "yandod"
+    },
+    {
+      "id": "n16",
+      "label": "FrenkyNet"
+    }
+  ],
+  "links": [
+    {
+      "weight": 3.0,
+      "id": "3",
+      "target": "n17",
+      "source": "n18",
+      "value": "3"
+    },
+    {
+      "weight": 2.0,
+      "id": "2",
+      "target": "n15",
+      "source": "n16",
+      "value": "2"
+    },
+    {
+      "weight": 3.0,
+      "id": "1",
+      "target": "n14",
+      "source": "n15",
+      "value": "1"
+    },
+    {
+      "weight": 6.0,
+      "id": "0",
+      "target": "n1",
+      "source": "n5",
+      "value": "0"
+    },
+    {
+      "weight": 2.0,
+      "id": "4",
+      "target": "n19",
+      "source": "n20",
+      "value": "4"
+    }
+  ]
+}

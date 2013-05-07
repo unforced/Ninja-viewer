@@ -1,0 +1,98 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "sethaldridge"
+    },
+    {
+      "id": "n0",
+      "label": "daffl"
+    },
+    {
+      "id": "n5",
+      "label": "josephtate"
+    },
+    {
+      "id": "n4",
+      "label": "derekprior"
+    },
+    {
+      "id": "n3",
+      "label": "sschleicher"
+    },
+    {
+      "id": "n2",
+      "label": "bmomberger-cengage"
+    },
+    {
+      "id": "n8",
+      "label": "etremel"
+    },
+    {
+      "id": "n7",
+      "label": "jeffrose"
+    },
+    {
+      "id": "n6",
+      "label": "justinbmeyer"
+    }
+  ],
+  "links": [
+    {
+      "weight": 1.0,
+      "id": "3",
+      "target": "n0",
+      "source": "n4",
+      "value": "3"
+    },
+    {
+      "weight": 1.0,
+      "id": "2",
+      "target": "n0",
+      "source": "n3",
+      "value": "2"
+    },
+    {
+      "weight": 2.0,
+      "id": "1",
+      "target": "n0",
+      "source": "n2",
+      "value": "1"
+    },
+    {
+      "weight": 6.0,
+      "id": "0",
+      "target": "n0",
+      "source": "n1",
+      "value": "0"
+    },
+    {
+      "weight": 1.0,
+      "id": "7",
+      "target": "n0",
+      "source": "n7",
+      "value": "7"
+    },
+    {
+      "weight": 2.0,
+      "id": "6",
+      "target": "n6",
+      "source": "n8",
+      "value": "6"
+    },
+    {
+      "weight": 1.0,
+      "id": "5",
+      "target": "n6",
+      "source": "n7",
+      "value": "5"
+    },
+    {
+      "weight": 4.0,
+      "id": "4",
+      "target": "n0",
+      "source": "n5",
+      "value": "4"
+    }
+  ]
+}

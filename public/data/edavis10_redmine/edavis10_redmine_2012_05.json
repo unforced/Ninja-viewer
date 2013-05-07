@@ -1,0 +1,35 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "marutosi"
+    },
+    {
+      "id": "n0",
+      "label": "gamafranco"
+    },
+    {
+      "id": "n5",
+      "label": "egisz"
+    },
+    {
+      "id": "n4",
+      "label": "dhulihan"
+    },
+    {
+      "id": "n3",
+      "label": "jplang"
+    },
+    {
+      "id": "n2",
+      "label": "sevk"
+    },
+    {
+      "id": "n6",
+      "label": "homakov"
+    }
+  ],
+  "links": [
+
+  ]
+}

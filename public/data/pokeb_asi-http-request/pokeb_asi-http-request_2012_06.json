@@ -1,0 +1,154 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "pokeb"
+    },
+    {
+      "id": "n23",
+      "label": "barumrho"
+    },
+    {
+      "id": "n0",
+      "label": "jeffery9"
+    },
+    {
+      "id": "n22",
+      "label": "dsuyang"
+    },
+    {
+      "id": "n21",
+      "label": "fabrice"
+    },
+    {
+      "id": "n20",
+      "label": "Kabal"
+    },
+    {
+      "id": "n5",
+      "label": "gaosboy"
+    },
+    {
+      "id": "n4",
+      "label": "jogu"
+    },
+    {
+      "id": "n3",
+      "label": "larsxschneider"
+    },
+    {
+      "id": "n2",
+      "label": "yuvisingh"
+    },
+    {
+      "id": "n9",
+      "label": "horak"
+    },
+    {
+      "id": "n8",
+      "label": "OpenFibers"
+    },
+    {
+      "id": "n7",
+      "label": "MihaiDamian"
+    },
+    {
+      "id": "n6",
+      "label": "MarceloEmmerich"
+    },
+    {
+      "id": "n28",
+      "label": "jdmunro"
+    },
+    {
+      "id": "n29",
+      "label": "shem8"
+    },
+    {
+      "id": "n26",
+      "label": "jeremytregunna"
+    },
+    {
+      "id": "n27",
+      "label": "blackpawn"
+    },
+    {
+      "id": "n24",
+      "label": "niveus"
+    },
+    {
+      "id": "n25",
+      "label": "mattyohe"
+    },
+    {
+      "id": "n10",
+      "label": "thiagoperes"
+    },
+    {
+      "id": "n12",
+      "label": "JaviSoto"
+    },
+    {
+      "id": "n11",
+      "label": "mattt"
+    },
+    {
+      "id": "n17",
+      "label": "adib"
+    },
+    {
+      "id": "n18",
+      "label": "yasirmturk"
+    },
+    {
+      "id": "n19",
+      "label": "pt2ph8"
+    },
+    {
+      "id": "n13",
+      "label": "smolls"
+    },
+    {
+      "id": "n14",
+      "label": "robaggio"
+    },
+    {
+      "id": "n15",
+      "label": "chrobin"
+    },
+    {
+      "id": "n16",
+      "label": "mave99a"
+    }
+  ],
+  "links": [
+    {
+      "weight": 3.0,
+      "id": "3",
+      "target": "n19",
+      "source": "n20",
+      "value": "3"
+    },
+    {
+      "weight": 6.0,
+      "id": "2",
+      "target": "n4",
+      "source": "n6",
+      "value": "2"
+    },
+    {
+      "weight": 3.0,
+      "id": "1",
+      "target": "n1",
+      "source": "n2",
+      "value": "1"
+    },
+    {
+      "weight": 3.0,
+      "id": "0",
+      "target": "n0",
+      "source": "n1",
+      "value": "0"
+    }
+  ]
+}

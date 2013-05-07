@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "jamesrose"
+    },
+    {
+      "id": "n0",
+      "label": "acanyon"
+    },
+    {
+      "id": "n4",
+      "label": "oleander"
+    },
+    {
+      "id": "n3",
+      "label": "paulyoder"
+    },
+    {
+      "id": "n2",
+      "label": "jlatt"
+    }
+  ],
+  "links": [
+    {
+      "weight": 2.0,
+      "id": "3",
+      "target": "n1",
+      "source": "n4",
+      "value": "3"
+    },
+    {
+      "weight": 3.0,
+      "id": "2",
+      "target": "n1",
+      "source": "n3",
+      "value": "2"
+    },
+    {
+      "weight": 1.0,
+      "id": "1",
+      "target": "n1",
+      "source": "n2",
+      "value": "1"
+    },
+    {
+      "weight": 1.0,
+      "id": "0",
+      "target": "n0",
+      "source": "n1",
+      "value": "0"
+    }
+  ]
+}

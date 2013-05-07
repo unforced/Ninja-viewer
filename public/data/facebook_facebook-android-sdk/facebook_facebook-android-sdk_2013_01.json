@@ -1,0 +1,216 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "rightparen"
+    },
+    {
+      "id": "n23",
+      "label": "josser"
+    },
+    {
+      "id": "n0",
+      "label": "billmag"
+    },
+    {
+      "id": "n22",
+      "label": "ebfaed"
+    },
+    {
+      "id": "n21",
+      "label": "senagbe"
+    },
+    {
+      "id": "n20",
+      "label": "mosabua"
+    },
+    {
+      "id": "n5",
+      "label": "matrixxun"
+    },
+    {
+      "id": "n4",
+      "label": "deedee71"
+    },
+    {
+      "id": "n3",
+      "label": "elezabeth"
+    },
+    {
+      "id": "n2",
+      "label": "paskster"
+    },
+    {
+      "id": "n9",
+      "label": "tom-dignan"
+    },
+    {
+      "id": "n8",
+      "label": "Jim Brusstar"
+    },
+    {
+      "id": "n7",
+      "label": "kpsychas"
+    },
+    {
+      "id": "n6",
+      "label": "yariv"
+    },
+    {
+      "id": "n26",
+      "label": "emmby"
+    },
+    {
+      "id": "n27",
+      "label": "savvasdalkitsis"
+    },
+    {
+      "id": "n24",
+      "label": "stringa"
+    },
+    {
+      "id": "n25",
+      "label": "johnatiswifter"
+    },
+    {
+      "id": "n10",
+      "label": "jemy86"
+    },
+    {
+      "id": "n12",
+      "label": "KLEBERLSR"
+    },
+    {
+      "id": "n11",
+      "label": "John Ketchpaw"
+    },
+    {
+      "id": "n17",
+      "label": "javawide"
+    },
+    {
+      "id": "n18",
+      "label": "fern"
+    },
+    {
+      "id": "n19",
+      "label": "alex-richards"
+    },
+    {
+      "id": "n13",
+      "label": "pepsprite8783"
+    },
+    {
+      "id": "n14",
+      "label": "ksperling"
+    },
+    {
+      "id": "n15",
+      "label": "efi-mk"
+    },
+    {
+      "id": "n16",
+      "label": "rfc1459"
+    }
+  ],
+  "links": [
+    {
+      "weight": 2.0,
+      "id": "3",
+      "target": "n7",
+      "source": "n8",
+      "value": "3"
+    },
+    {
+      "weight": 2.0,
+      "id": "2",
+      "target": "n5",
+      "source": "n6",
+      "value": "2"
+    },
+    {
+      "weight": 8.0,
+      "id": "10",
+      "target": "n0",
+      "source": "n19",
+      "value": "10"
+    },
+    {
+      "weight": 3.0,
+      "id": "1",
+      "target": "n1",
+      "source": "n3",
+      "value": "1"
+    },
+    {
+      "weight": 1.0,
+      "id": "0",
+      "target": "n0",
+      "source": "n1",
+      "value": "0"
+    },
+    {
+      "weight": 1.0,
+      "id": "7",
+      "target": "n11",
+      "source": "n14",
+      "value": "7"
+    },
+    {
+      "weight": 1.0,
+      "id": "6",
+      "target": "n11",
+      "source": "n13",
+      "value": "6"
+    },
+    {
+      "weight": 1.0,
+      "id": "5",
+      "target": "n11",
+      "source": "n12",
+      "value": "5"
+    },
+    {
+      "weight": 1.0,
+      "id": "4",
+      "target": "n10",
+      "source": "n11",
+      "value": "4"
+    },
+    {
+      "weight": 3.0,
+      "id": "9",
+      "target": "n18",
+      "source": "n19",
+      "value": "9"
+    },
+    {
+      "weight": 4.0,
+      "id": "8",
+      "target": "n15",
+      "source": "n16",
+      "value": "8"
+    },
+    {
+      "weight": 1.0,
+      "id": "13",
+      "target": "n23",
+      "source": "n24",
+      "value": "13"
+    },
+    {
+      "weight": 6.0,
+      "id": "11",
+      "target": "n19",
+      "source": "n20",
+      "value": "11"
+    },
+    {
+      "weight": 3.0,
+      "id": "12",
+      "target": "n20",
+      "source": "n21",
+      "value": "12"
+    }
+  ]
+}

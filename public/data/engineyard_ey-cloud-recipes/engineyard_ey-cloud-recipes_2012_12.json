@@ -1,0 +1,307 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "emachnic"
+    },
+    {
+      "id": "n23",
+      "label": "coderdan"
+    },
+    {
+      "id": "n0",
+      "label": "jimneath"
+    },
+    {
+      "id": "n22",
+      "label": "wilson"
+    },
+    {
+      "id": "n21",
+      "label": "eric"
+    },
+    {
+      "id": "n20",
+      "label": "travisbot"
+    },
+    {
+      "id": "n5",
+      "label": "seamusabshere"
+    },
+    {
+      "id": "n4",
+      "label": "krutten"
+    },
+    {
+      "id": "n3",
+      "label": "nilbus"
+    },
+    {
+      "id": "n2",
+      "label": "dennisjbell"
+    },
+    {
+      "id": "n9",
+      "label": "acco"
+    },
+    {
+      "id": "n8",
+      "label": "braddunbar"
+    },
+    {
+      "id": "n7",
+      "label": "Fox20th"
+    },
+    {
+      "id": "n6",
+      "label": "ey-pairing"
+    },
+    {
+      "id": "n28",
+      "label": "luislavena"
+    },
+    {
+      "id": "n29",
+      "label": "JustinTArthur"
+    },
+    {
+      "id": "n26",
+      "label": "dignoe"
+    },
+    {
+      "id": "n27",
+      "label": "indirect"
+    },
+    {
+      "id": "n24",
+      "label": "troy"
+    },
+    {
+      "id": "n25",
+      "label": "aspleenic"
+    },
+    {
+      "id": "n10",
+      "label": "mattscilipoti"
+    },
+    {
+      "id": "n30",
+      "label": "j0hnb"
+    },
+    {
+      "id": "n12",
+      "label": "gja"
+    },
+    {
+      "id": "n11",
+      "label": "earnold"
+    },
+    {
+      "id": "n32",
+      "label": "kzk"
+    },
+    {
+      "id": "n31",
+      "label": "Randommood"
+    },
+    {
+      "id": "n34",
+      "label": "crigor"
+    },
+    {
+      "id": "n33",
+      "label": "armandofox"
+    },
+    {
+      "id": "n17",
+      "label": "aparkerw"
+    },
+    {
+      "id": "n18",
+      "label": "mdolian"
+    },
+    {
+      "id": "n19",
+      "label": "KevDog"
+    },
+    {
+      "id": "n13",
+      "label": "edwardchiu38"
+    },
+    {
+      "id": "n14",
+      "label": "jaustinhughey"
+    },
+    {
+      "id": "n15",
+      "label": "gtd"
+    },
+    {
+      "id": "n16",
+      "label": "krasio"
+    }
+  ],
+  "links": [
+    {
+      "weight": 4.0,
+      "id": "19",
+      "target": "n5",
+      "source": "n20",
+      "value": "19"
+    },
+    {
+      "weight": 1.0,
+      "id": "22",
+      "target": "n2",
+      "source": "n9",
+      "value": "22"
+    },
+    {
+      "weight": 4.0,
+      "id": "17",
+      "target": "n20",
+      "source": "n25",
+      "value": "17"
+    },
+    {
+      "weight": 1.0,
+      "id": "18",
+      "target": "n1",
+      "source": "n26",
+      "value": "18"
+    },
+    {
+      "weight": 4.0,
+      "id": "15",
+      "target": "n5",
+      "source": "n24",
+      "value": "15"
+    },
+    {
+      "weight": 8.0,
+      "id": "16",
+      "target": "n9",
+      "source": "n13",
+      "value": "16"
+    },
+    {
+      "weight": 4.0,
+      "id": "13",
+      "target": "n1",
+      "source": "n12",
+      "value": "13"
+    },
+    {
+      "weight": 4.0,
+      "id": "14",
+      "target": "n5",
+      "source": "n21",
+      "value": "14"
+    },
+    {
+      "weight": 12.0,
+      "id": "11",
+      "target": "n13",
+      "source": "n20",
+      "value": "11"
+    },
+    {
+      "weight": 12.0,
+      "id": "12",
+      "target": "n12",
+      "source": "n20",
+      "value": "12"
+    },
+    {
+      "weight": 4.0,
+      "id": "21",
+      "target": "n1",
+      "source": "n20",
+      "value": "21"
+    },
+    {
+      "weight": 2.0,
+      "id": "3",
+      "target": "n2",
+      "source": "n4",
+      "value": "3"
+    },
+    {
+      "weight": 2.0,
+      "id": "20",
+      "target": "n5",
+      "source": "n27",
+      "value": "20"
+    },
+    {
+      "weight": 1.0,
+      "id": "2",
+      "target": "n2",
+      "source": "n3",
+      "value": "2"
+    },
+    {
+      "weight": 7.0,
+      "id": "1",
+      "target": "n1",
+      "source": "n2",
+      "value": "1"
+    },
+    {
+      "weight": 1.0,
+      "id": "10",
+      "target": "n0",
+      "source": "n2",
+      "value": "10"
+    },
+    {
+      "weight": 2.0,
+      "id": "0",
+      "target": "n0",
+      "source": "n1",
+      "value": "0"
+    },
+    {
+      "weight": 6.0,
+      "id": "7",
+      "target": "n2",
+      "source": "n12",
+      "value": "7"
+    },
+    {
+      "weight": 2.0,
+      "id": "6",
+      "target": "n1",
+      "source": "n7",
+      "value": "6"
+    },
+    {
+      "weight": 2.0,
+      "id": "5",
+      "target": "n2",
+      "source": "n6",
+      "value": "5"
+    },
+    {
+      "weight": 14.0,
+      "id": "4",
+      "target": "n2",
+      "source": "n5",
+      "value": "4"
+    },
+    {
+      "weight": 1.0,
+      "id": "9",
+      "target": "n2",
+      "source": "n14",
+      "value": "9"
+    },
+    {
+      "weight": 2.0,
+      "id": "8",
+      "target": "n2",
+      "source": "n13",
+      "value": "8"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "thebinarypenguin"
+    },
+    {
+      "id": "n0",
+      "label": "marcpeabody"
+    },
+    {
+      "id": "n5",
+      "label": "cgorshing"
+    },
+    {
+      "id": "n4",
+      "label": "markjaquith"
+    },
+    {
+      "id": "n3",
+      "label": "wyaeld"
+    },
+    {
+      "id": "n2",
+      "label": "jimweirich"
+    },
+    {
+      "id": "n8",
+      "label": "TheTeaNerd"
+    },
+    {
+      "id": "n7",
+      "label": "jingyinggong"
+    },
+    {
+      "id": "n6",
+      "label": "adamlogic"
+    }
+  ],
+  "links": [
+    {
+      "weight": 1.0,
+      "id": "3",
+      "target": "n7",
+      "source": "n8",
+      "value": "3"
+    },
+    {
+      "weight": 1.0,
+      "id": "2",
+      "target": "n6",
+      "source": "n7",
+      "value": "2"
+    },
+    {
+      "weight": 4.0,
+      "id": "1",
+      "target": "n4",
+      "source": "n5",
+      "value": "1"
+    },
+    {
+      "weight": 6.0,
+      "id": "0",
+      "target": "n0",
+      "source": "n1",
+      "value": "0"
+    }
+  ]
+}

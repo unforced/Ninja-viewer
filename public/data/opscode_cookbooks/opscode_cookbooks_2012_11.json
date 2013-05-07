@@ -1,0 +1,219 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "gilles"
+    },
+    {
+      "id": "n10",
+      "label": "dafyddcrosby"
+    },
+    {
+      "id": "n0",
+      "label": "jtimberman"
+    },
+    {
+      "id": "n12",
+      "label": "williamherry"
+    },
+    {
+      "id": "n11",
+      "label": "alanshields"
+    },
+    {
+      "id": "n5",
+      "label": "Neve"
+    },
+    {
+      "id": "n4",
+      "label": "klausmeyer"
+    },
+    {
+      "id": "n3",
+      "label": "Marc-Morata-Fite"
+    },
+    {
+      "id": "n2",
+      "label": "andrewgross"
+    },
+    {
+      "id": "n9",
+      "label": "madhurranjan"
+    },
+    {
+      "id": "n8",
+      "label": "hh"
+    },
+    {
+      "id": "n7",
+      "label": "michaeltaras"
+    },
+    {
+      "id": "n6",
+      "label": "btm"
+    },
+    {
+      "id": "n17",
+      "label": "slantview"
+    },
+    {
+      "id": "n18",
+      "label": "loladiro"
+    },
+    {
+      "id": "n19",
+      "label": "leifmadsen"
+    },
+    {
+      "id": "n13",
+      "label": "ChrisLundquist"
+    },
+    {
+      "id": "n14",
+      "label": "erniebrodeur"
+    },
+    {
+      "id": "n15",
+      "label": "mattray"
+    },
+    {
+      "id": "n16",
+      "label": "aneal"
+    }
+  ],
+  "links": [
+    {
+      "weight": 4.0,
+      "id": "17",
+      "target": "n6",
+      "source": "n10",
+      "value": "17"
+    },
+    {
+      "weight": 2.0,
+      "id": "18",
+      "target": "n18",
+      "source": "n19",
+      "value": "18"
+    },
+    {
+      "weight": 2.0,
+      "id": "15",
+      "target": "n6",
+      "source": "n12",
+      "value": "15"
+    },
+    {
+      "weight": 2.0,
+      "id": "16",
+      "target": "n10",
+      "source": "n17",
+      "value": "16"
+    },
+    {
+      "weight": 3.0,
+      "id": "13",
+      "target": "n15",
+      "source": "n16",
+      "value": "13"
+    },
+    {
+      "weight": 3.0,
+      "id": "14",
+      "target": "n6",
+      "source": "n9",
+      "value": "14"
+    },
+    {
+      "weight": 2.0,
+      "id": "11",
+      "target": "n0",
+      "source": "n13",
+      "value": "11"
+    },
+    {
+      "weight": 2.0,
+      "id": "12",
+      "target": "n0",
+      "source": "n14",
+      "value": "12"
+    },
+    {
+      "weight": 6.0,
+      "id": "3",
+      "target": "n0",
+      "source": "n4",
+      "value": "3"
+    },
+    {
+      "weight": 6.0,
+      "id": "2",
+      "target": "n0",
+      "source": "n3",
+      "value": "2"
+    },
+    {
+      "weight": 3.0,
+      "id": "1",
+      "target": "n0",
+      "source": "n2",
+      "value": "1"
+    },
+    {
+      "weight": 2.0,
+      "id": "10",
+      "target": "n0",
+      "source": "n12",
+      "value": "10"
+    },
+    {
+      "weight": 8.0,
+      "id": "0",
+      "target": "n0",
+      "source": "n1",
+      "value": "0"
+    },
+    {
+      "weight": 2.0,
+      "id": "7",
+      "target": "n0",
+      "source": "n9",
+      "value": "7"
+    },
+    {
+      "weight": 4.0,
+      "id": "6",
+      "target": "n6",
+      "source": "n8",
+      "value": "6"
+    },
+    {
+      "weight": 2.0,
+      "id": "5",
+      "target": "n6",
+      "source": "n7",
+      "value": "5"
+    },
+    {
+      "weight": 6.0,
+      "id": "4",
+      "target": "n0",
+      "source": "n5",
+      "value": "4"
+    },
+    {
+      "weight": 2.0,
+      "id": "9",
+      "target": "n0",
+      "source": "n11",
+      "value": "9"
+    },
+    {
+      "weight": 2.0,
+      "id": "8",
+      "target": "n0",
+      "source": "n10",
+      "value": "8"
+    }
+  ]
+}

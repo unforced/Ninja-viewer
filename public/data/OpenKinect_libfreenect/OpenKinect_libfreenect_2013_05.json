@@ -1,0 +1,466 @@
+{
+  "nodes": [
+    {
+      "id": "n41",
+      "label": "a-m-p-m"
+    },
+    {
+      "id": "n1",
+      "label": "techjailer"
+    },
+    {
+      "id": "n23",
+      "label": "dudefellah"
+    },
+    {
+      "id": "n40",
+      "label": "vitaly-little"
+    },
+    {
+      "id": "n0",
+      "label": "zarvox"
+    },
+    {
+      "id": "n22",
+      "label": "killkrt"
+    },
+    {
+      "id": "n21",
+      "label": "zabcd117"
+    },
+    {
+      "id": "n20",
+      "label": "reedscot"
+    },
+    {
+      "id": "n5",
+      "label": "citelao"
+    },
+    {
+      "id": "n44",
+      "label": "Tatsh"
+    },
+    {
+      "id": "n4",
+      "label": "qdot"
+    },
+    {
+      "id": "n43",
+      "label": "chriswei"
+    },
+    {
+      "id": "n3",
+      "label": "johnscheible"
+    },
+    {
+      "id": "n42",
+      "label": "cnobile2012"
+    },
+    {
+      "id": "n2",
+      "label": "zoulzubazz"
+    },
+    {
+      "id": "n9",
+      "label": "pgbi"
+    },
+    {
+      "id": "n8",
+      "label": "josephd"
+    },
+    {
+      "id": "n7",
+      "label": "marcelhollerbach"
+    },
+    {
+      "id": "n6",
+      "label": "floe"
+    },
+    {
+      "id": "n28",
+      "label": "Exomene"
+    },
+    {
+      "id": "n29",
+      "label": "lucky13bbq"
+    },
+    {
+      "id": "n26",
+      "label": "tong"
+    },
+    {
+      "id": "n27",
+      "label": "zacs"
+    },
+    {
+      "id": "n24",
+      "label": "DerCommodore"
+    },
+    {
+      "id": "n25",
+      "label": "csotiriou"
+    },
+    {
+      "id": "n10",
+      "label": "karlun"
+    },
+    {
+      "id": "n30",
+      "label": "madEng84"
+    },
+    {
+      "id": "n12",
+      "label": "wizgrav"
+    },
+    {
+      "id": "n11",
+      "label": "hkzlab"
+    },
+    {
+      "id": "n32",
+      "label": "xxorde"
+    },
+    {
+      "id": "n31",
+      "label": "mcteo"
+    },
+    {
+      "id": "n34",
+      "label": "col000r"
+    },
+    {
+      "id": "n33",
+      "label": "Funto"
+    },
+    {
+      "id": "n35",
+      "label": "deadfire55"
+    },
+    {
+      "id": "n17",
+      "label": "AmmarkoV"
+    },
+    {
+      "id": "n36",
+      "label": "GunMan-fr"
+    },
+    {
+      "id": "n18",
+      "label": "timprepscius"
+    },
+    {
+      "id": "n37",
+      "label": "ansoto"
+    },
+    {
+      "id": "n19",
+      "label": "zanemcca"
+    },
+    {
+      "id": "n38",
+      "label": "JoshBlake"
+    },
+    {
+      "id": "n39",
+      "label": "eeerik"
+    },
+    {
+      "id": "n13",
+      "label": "theoceanwalker"
+    },
+    {
+      "id": "n14",
+      "label": "m8n"
+    },
+    {
+      "id": "n15",
+      "label": "piedar"
+    },
+    {
+      "id": "n16",
+      "label": "bishopZ"
+    }
+  ],
+  "links": [
+    {
+      "weight": 2.0,
+      "id": "19",
+      "target": "n11",
+      "source": "n26",
+      "value": "19"
+    },
+    {
+      "weight": 1.0,
+      "id": "35",
+      "target": "n11",
+      "source": "n41",
+      "value": "35"
+    },
+    {
+      "weight": 2.0,
+      "id": "17",
+      "target": "n0",
+      "source": "n24",
+      "value": "17"
+    },
+    {
+      "weight": 1.0,
+      "id": "36",
+      "target": "n24",
+      "source": "n42",
+      "value": "36"
+    },
+    {
+      "weight": 3.0,
+      "id": "18",
+      "target": "n11",
+      "source": "n25",
+      "value": "18"
+    },
+    {
+      "weight": 1.0,
+      "id": "33",
+      "target": "n11",
+      "source": "n39",
+      "value": "33"
+    },
+    {
+      "weight": 1.0,
+      "id": "15",
+      "target": "n11",
+      "source": "n22",
+      "value": "15"
+    },
+    {
+      "weight": 1.0,
+      "id": "34",
+      "target": "n11",
+      "source": "n40",
+      "value": "34"
+    },
+    {
+      "weight": 4.0,
+      "id": "16",
+      "target": "n11",
+      "source": "n23",
+      "value": "16"
+    },
+    {
+      "weight": 1.0,
+      "id": "39",
+      "target": "n12",
+      "source": "n22",
+      "value": "39"
+    },
+    {
+      "weight": 5.0,
+      "id": "13",
+      "target": "n11",
+      "source": "n19",
+      "value": "13"
+    },
+    {
+      "weight": 6.0,
+      "id": "14",
+      "target": "n20",
+      "source": "n21",
+      "value": "14"
+    },
+    {
+      "weight": 1.0,
+      "id": "37",
+      "target": "n11",
+      "source": "n43",
+      "value": "37"
+    },
+    {
+      "weight": 1.0,
+      "id": "11",
+      "target": "n15",
+      "source": "n16",
+      "value": "11"
+    },
+    {
+      "weight": 1.0,
+      "id": "38",
+      "target": "n16",
+      "source": "n44",
+      "value": "38"
+    },
+    {
+      "weight": 1.0,
+      "id": "12",
+      "target": "n17",
+      "source": "n18",
+      "value": "12"
+    },
+    {
+      "weight": 5.0,
+      "id": "21",
+      "target": "n11",
+      "source": "n28",
+      "value": "21"
+    },
+    {
+      "weight": 4.0,
+      "id": "20",
+      "target": "n5",
+      "source": "n27",
+      "value": "20"
+    },
+    {
+      "weight": 1.0,
+      "id": "22",
+      "target": "n15",
+      "source": "n24",
+      "value": "22"
+    },
+    {
+      "weight": 2.0,
+      "id": "23",
+      "target": "n11",
+      "source": "n29",
+      "value": "23"
+    },
+    {
+      "weight": 1.0,
+      "id": "24",
+      "target": "n24",
+      "source": "n30",
+      "value": "24"
+    },
+    {
+      "weight": 2.0,
+      "id": "25",
+      "target": "n0",
+      "source": "n31",
+      "value": "25"
+    },
+    {
+      "weight": 3.0,
+      "id": "26",
+      "target": "n11",
+      "source": "n32",
+      "value": "26"
+    },
+    {
+      "weight": 2.0,
+      "id": "27",
+      "target": "n8",
+      "source": "n31",
+      "value": "27"
+    },
+    {
+      "weight": 1.0,
+      "id": "28",
+      "target": "n24",
+      "source": "n33",
+      "value": "28"
+    },
+    {
+      "weight": 1.0,
+      "id": "29",
+      "target": "n24",
+      "source": "n34",
+      "value": "29"
+    },
+    {
+      "weight": 4.0,
+      "id": "3",
+      "target": "n4",
+      "source": "n5",
+      "value": "3"
+    },
+    {
+      "weight": 3.0,
+      "id": "2",
+      "target": "n0",
+      "source": "n3",
+      "value": "2"
+    },
+    {
+      "weight": 6.0,
+      "id": "10",
+      "target": "n11",
+      "source": "n14",
+      "value": "10"
+    },
+    {
+      "weight": 6.0,
+      "id": "1",
+      "target": "n0",
+      "source": "n2",
+      "value": "1"
+    },
+    {
+      "weight": 6.0,
+      "id": "0",
+      "target": "n0",
+      "source": "n1",
+      "value": "0"
+    },
+    {
+      "weight": 1.0,
+      "id": "30",
+      "target": "n35",
+      "source": "n36",
+      "value": "30"
+    },
+    {
+      "weight": 7.0,
+      "id": "7",
+      "target": "n10",
+      "source": "n11",
+      "value": "7"
+    },
+    {
+      "weight": 1.0,
+      "id": "6",
+      "target": "n8",
+      "source": "n9",
+      "value": "6"
+    },
+    {
+      "weight": 1.0,
+      "id": "32",
+      "target": "n11",
+      "source": "n38",
+      "value": "32"
+    },
+    {
+      "weight": 1.0,
+      "id": "5",
+      "target": "n3",
+      "source": "n7",
+      "value": "5"
+    },
+    {
+      "weight": 2.0,
+      "id": "31",
+      "target": "n11",
+      "source": "n37",
+      "value": "31"
+    },
+    {
+      "weight": 2.0,
+      "id": "4",
+      "target": "n0",
+      "source": "n6",
+      "value": "4"
+    },
+    {
+      "weight": 3.0,
+      "id": "9",
+      "target": "n11",
+      "source": "n13",
+      "value": "9"
+    },
+    {
+      "weight": 10.0,
+      "id": "8",
+      "target": "n11",
+      "source": "n12",
+      "value": "8"
+    }
+  ]
+}

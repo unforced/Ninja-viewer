@@ -1,0 +1,231 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "pokeb"
+    },
+    {
+      "id": "n23",
+      "label": "barumrho"
+    },
+    {
+      "id": "n0",
+      "label": "jeffery9"
+    },
+    {
+      "id": "n22",
+      "label": "dsuyang"
+    },
+    {
+      "id": "n21",
+      "label": "fabrice"
+    },
+    {
+      "id": "n20",
+      "label": "Kabal"
+    },
+    {
+      "id": "n5",
+      "label": "gaosboy"
+    },
+    {
+      "id": "n4",
+      "label": "jogu"
+    },
+    {
+      "id": "n3",
+      "label": "larsxschneider"
+    },
+    {
+      "id": "n2",
+      "label": "yuvisingh"
+    },
+    {
+      "id": "n9",
+      "label": "horak"
+    },
+    {
+      "id": "n8",
+      "label": "OpenFibers"
+    },
+    {
+      "id": "n7",
+      "label": "MihaiDamian"
+    },
+    {
+      "id": "n6",
+      "label": "MarceloEmmerich"
+    },
+    {
+      "id": "n28",
+      "label": "jdmunro"
+    },
+    {
+      "id": "n29",
+      "label": "shem8"
+    },
+    {
+      "id": "n26",
+      "label": "jeremytregunna"
+    },
+    {
+      "id": "n27",
+      "label": "blackpawn"
+    },
+    {
+      "id": "n24",
+      "label": "niveus"
+    },
+    {
+      "id": "n25",
+      "label": "mattyohe"
+    },
+    {
+      "id": "n10",
+      "label": "thiagoperes"
+    },
+    {
+      "id": "n12",
+      "label": "JaviSoto"
+    },
+    {
+      "id": "n11",
+      "label": "mattt"
+    },
+    {
+      "id": "n17",
+      "label": "adib"
+    },
+    {
+      "id": "n18",
+      "label": "yasirmturk"
+    },
+    {
+      "id": "n19",
+      "label": "pt2ph8"
+    },
+    {
+      "id": "n13",
+      "label": "smolls"
+    },
+    {
+      "id": "n14",
+      "label": "robaggio"
+    },
+    {
+      "id": "n15",
+      "label": "chrobin"
+    },
+    {
+      "id": "n16",
+      "label": "mave99a"
+    }
+  ],
+  "links": [
+    {
+      "weight": 2.0,
+      "id": "3",
+      "target": "n4",
+      "source": "n7",
+      "value": "3"
+    },
+    {
+      "weight": 6.0,
+      "id": "2",
+      "target": "n4",
+      "source": "n6",
+      "value": "2"
+    },
+    {
+      "weight": 2.0,
+      "id": "10",
+      "target": "n10",
+      "source": "n21",
+      "value": "10"
+    },
+    {
+      "weight": 3.0,
+      "id": "1",
+      "target": "n1",
+      "source": "n2",
+      "value": "1"
+    },
+    {
+      "weight": 3.0,
+      "id": "0",
+      "target": "n0",
+      "source": "n1",
+      "value": "0"
+    },
+    {
+      "weight": 2.0,
+      "id": "7",
+      "target": "n12",
+      "source": "n13",
+      "value": "7"
+    },
+    {
+      "weight": 1.0,
+      "id": "6",
+      "target": "n11",
+      "source": "n12",
+      "value": "6"
+    },
+    {
+      "weight": 4.0,
+      "id": "5",
+      "target": "n9",
+      "source": "n10",
+      "value": "5"
+    },
+    {
+      "weight": 4.0,
+      "id": "4",
+      "target": "n4",
+      "source": "n8",
+      "value": "4"
+    },
+    {
+      "weight": 3.0,
+      "id": "9",
+      "target": "n19",
+      "source": "n20",
+      "value": "9"
+    },
+    {
+      "weight": 2.0,
+      "id": "8",
+      "target": "n16",
+      "source": "n17",
+      "value": "8"
+    },
+    {
+      "weight": 3.0,
+      "id": "13",
+      "target": "n20",
+      "source": "n27",
+      "value": "13"
+    },
+    {
+      "weight": 2.0,
+      "id": "14",
+      "target": "n20",
+      "source": "n28",
+      "value": "14"
+    },
+    {
+      "weight": 1.0,
+      "id": "11",
+      "target": "n12",
+      "source": "n25",
+      "value": "11"
+    },
+    {
+      "weight": 2.0,
+      "id": "12",
+      "target": "n12",
+      "source": "n26",
+      "value": "12"
+    }
+  ]
+}

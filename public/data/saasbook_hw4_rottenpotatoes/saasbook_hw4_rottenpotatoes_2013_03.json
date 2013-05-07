@@ -1,0 +1,62 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "found008"
+    },
+    {
+      "id": "n0",
+      "label": "jeady"
+    },
+    {
+      "id": "n5",
+      "label": "naked"
+    },
+    {
+      "id": "n4",
+      "label": "dcopeland"
+    },
+    {
+      "id": "n3",
+      "label": "elvanja"
+    },
+    {
+      "id": "n2",
+      "label": "robertjmarks"
+    },
+    {
+      "id": "n6",
+      "label": "armandofox"
+    }
+  ],
+  "links": [
+    {
+      "weight": 4.0,
+      "id": "3",
+      "target": "n4",
+      "source": "n6",
+      "value": "3"
+    },
+    {
+      "weight": 2.0,
+      "id": "2",
+      "target": "n4",
+      "source": "n5",
+      "value": "2"
+    },
+    {
+      "weight": 2.0,
+      "id": "1",
+      "target": "n2",
+      "source": "n4",
+      "value": "1"
+    },
+    {
+      "weight": 2.0,
+      "id": "0",
+      "target": "n2",
+      "source": "n3",
+      "value": "0"
+    }
+  ]
+}

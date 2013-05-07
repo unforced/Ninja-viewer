@@ -1,0 +1,45 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "avneeshk91"
+    },
+    {
+      "id": "n0",
+      "label": "maxfeldman14"
+    },
+    {
+      "id": "n5",
+      "label": "hircus"
+    },
+    {
+      "id": "n4",
+      "label": "azavadil"
+    },
+    {
+      "id": "n3",
+      "label": "luthientinuviel"
+    },
+    {
+      "id": "n2",
+      "label": "jeady"
+    },
+    {
+      "id": "n7",
+      "label": "ktully"
+    },
+    {
+      "id": "n6",
+      "label": "tobe101"
+    }
+  ],
+  "links": [
+    {
+      "weight": 4.0,
+      "id": "0",
+      "target": "n0",
+      "source": "n1",
+      "value": "0"
+    }
+  ]
+}

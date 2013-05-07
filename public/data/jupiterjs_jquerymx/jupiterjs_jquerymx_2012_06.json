@@ -1,0 +1,56 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "sethaldridge"
+    },
+    {
+      "id": "n0",
+      "label": "daffl"
+    },
+    {
+      "id": "n5",
+      "label": "josephtate"
+    },
+    {
+      "id": "n4",
+      "label": "derekprior"
+    },
+    {
+      "id": "n3",
+      "label": "sschleicher"
+    },
+    {
+      "id": "n2",
+      "label": "bmomberger-cengage"
+    },
+    {
+      "id": "n8",
+      "label": "etremel"
+    },
+    {
+      "id": "n7",
+      "label": "jeffrose"
+    },
+    {
+      "id": "n6",
+      "label": "justinbmeyer"
+    }
+  ],
+  "links": [
+    {
+      "weight": 3.0,
+      "id": "1",
+      "target": "n0",
+      "source": "n5",
+      "value": "1"
+    },
+    {
+      "weight": 6.0,
+      "id": "0",
+      "target": "n0",
+      "source": "n1",
+      "value": "0"
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "nodes": [
+    {
+      "id": "n41",
+      "label": "levic"
+    },
+    {
+      "id": "n40",
+      "label": "Salan"
+    },
+    {
+      "id": "n45",
+      "label": "allox"
+    },
+    {
+      "id": "n44",
+      "label": "willwharton"
+    },
+    {
+      "id": "n43",
+      "label": "scotepi"
+    },
+    {
+      "id": "n42",
+      "label": "naveenprakash"
+    },
+    {
+      "id": "n48",
+      "label": "egolts"
+    },
+    {
+      "id": "n49",
+      "label": "daiyam"
+    },
+    {
+      "id": "n46",
+      "label": "timoxley"
+    },
+    {
+      "id": "n47",
+      "label": "shachig"
+    },
+    {
+      "id": "n30",
+      "label": "mtumidei"
+    },
+    {
+      "id": "n32",
+      "label": "daraosn"
+    },
+    {
+      "id": "n31",
+      "label": "ropg"
+    },
+    {
+      "id": "n34",
+      "label": "devgeeks"
+    },
+    {
+      "id": "n33",
+      "label": "davidkaneda"
+    },
+    {
+      "id": "n35",
+      "label": "webcss"
+    },
+    {
+      "id": "n36",
+      "label": "limitlis"
+    },
+    {
+      "id": "n37",
+      "label": "danjordan"
+    },
+    {
+      "id": "n38",
+      "label": "dola"
+    },
+    {
+      "id": "n39",
+      "label": "dambalah"
+    },
+    {
+      "id": "n23",
+      "label": "jbmeneroud"
+    },
+    {
+      "id": "n1",
+      "label": "thomasyip"
+    },
+    {
+      "id": "n22",
+      "label": "michaelbelt"
+    },
+    {
+      "id": "n0",
+      "label": "bigmike7801"
+    },
+    {
+      "id": "n21",
+      "label": "JAlfredP"
+    },
+    {
+      "id": "n20",
+      "label": "BenCoffman"
+    },
+    {
+      "id": "n5",
+      "label": "nairagrigoryan"
+    },
+    {
+      "id": "n4",
+      "label": "gotoAndBliss"
+    },
+    {
+      "id": "n3",
+      "label": "shawndrost"
+    },
+    {
+      "id": "n2",
+      "label": "beedesk"
+    },
+    {
+      "id": "n9",
+      "label": "dhull"
+    },
+    {
+      "id": "n8",
+      "label": "danderson00"
+    },
+    {
+      "id": "n64",
+      "label": "mauroc"
+    },
+    {
+      "id": "n7",
+      "label": "DataZombies"
+    },
+    {
+      "id": "n65",
+      "label": "ivenms"
+    },
+    {
+      "id": "n6",
+      "label": "cybermill"
+    },
+    {
+      "id": "n62",
+      "label": "munna091"
+    },
+    {
+      "id": "n63",
+      "label": "jordandobson"
+    },
+    {
+      "id": "n60",
+      "label": "Zetaphor"
+    },
+    {
+      "id": "n61",
+      "label": "kakkuk"
+    },
+    {
+      "id": "n28",
+      "label": "igloo12"
+    },
+    {
+      "id": "n29",
+      "label": "lalop"
+    },
+    {
+      "id": "n26",
+      "label": "bismosa"
+    },
+    {
+      "id": "n27",
+      "label": "markflashlight"
+    },
+    {
+      "id": "n24",
+      "label": "sikndKim"
+    },
+    {
+      "id": "n25",
+      "label": "RonaldPK"
+    },
+    {
+      "id": "n10",
+      "label": "cavil2015"
+    },
+    {
+      "id": "n12",
+      "label": "RobinKuiper"
+    },
+    {
+      "id": "n11",
+      "label": "ogdenit"
+    },
+    {
+      "id": "n53",
+      "label": "aesculus"
+    },
+    {
+      "id": "n54",
+      "label": "dodo-dk"
+    },
+    {
+      "id": "n55",
+      "label": "jeremyhaile"
+    },
+    {
+      "id": "n56",
+      "label": "sromalewski"
+    },
+    {
+      "id": "n50",
+      "label": "nburch"
+    },
+    {
+      "id": "n51",
+      "label": "jeremysenn"
+    },
+    {
+      "id": "n52",
+      "label": "ceze33"
+    },
+    {
+      "id": "n58",
+      "label": "jvande"
+    },
+    {
+      "id": "n57",
+      "label": "cylis"
+    },
+    {
+      "id": "n59",
+      "label": "webdeveloperplus"
+    },
+    {
+      "id": "n17",
+      "label": "dongyuwei"
+    },
+    {
+      "id": "n18",
+      "label": "Volt5"
+    },
+    {
+      "id": "n19",
+      "label": "tskweres"
+    },
+    {
+      "id": "n13",
+      "label": "JMolnarL1"
+    },
+    {
+      "id": "n14",
+      "label": "vickyrighthere"
+    },
+    {
+      "id": "n15",
+      "label": "ball-hayden"
+    },
+    {
+      "id": "n16",
+      "label": "Tweetster"
+    }
+  ],
+  "links": [
+    {
+      "weight": 2.0,
+      "id": "17",
+      "target": "n7",
+      "source": "n63",
+      "value": "17"
+    },
+    {
+      "weight": 3.0,
+      "id": "15",
+      "target": "n9",
+      "source": "n16",
+      "value": "15"
+    },
+    {
+      "weight": 3.0,
+      "id": "16",
+      "target": "n42",
+      "source": "n59",
+      "value": "16"
+    },
+    {
+      "weight": 3.0,
+      "id": "13",
+      "target": "n23",
+      "source": "n49",
+      "value": "13"
+    },
+    {
+      "weight": 4.0,
+      "id": "14",
+      "target": "n16",
+      "source": "n57",
+      "value": "14"
+    },
+    {
+      "weight": 3.0,
+      "id": "11",
+      "target": "n31",
+      "source": "n46",
+      "value": "11"
+    },
+    {
+      "weight": 3.0,
+      "id": "12",
+      "target": "n44",
+      "source": "n47",
+      "value": "12"
+    },
+    {
+      "weight": 6.0,
+      "id": "3",
+      "target": "n33",
+      "source": "n35",
+      "value": "3"
+    },
+    {
+      "weight": 6.0,
+      "id": "2",
+      "target": "n20",
+      "source": "n21",
+      "value": "2"
+    },
+    {
+      "weight": 2.0,
+      "id": "1",
+      "target": "n1",
+      "source": "n3",
+      "value": "1"
+    },
+    {
+      "weight": 3.0,
+      "id": "10",
+      "target": "n42",
+      "source": "n45",
+      "value": "10"
+    },
+    {
+      "weight": 3.0,
+      "id": "0",
+      "target": "n0",
+      "source": "n1",
+      "value": "0"
+    },
+    {
+      "weight": 2.0,
+      "id": "7",
+      "target": "n16",
+      "source": "n37",
+      "value": "7"
+    },
+    {
+      "weight": 3.0,
+      "id": "6",
+      "target": "n9",
+      "source": "n32",
+      "value": "6"
+    },
+    {
+      "weight": 2.0,
+      "id": "5",
+      "target": "n16",
+      "source": "n40",
+      "value": "5"
+    },
+    {
+      "weight": 3.0,
+      "id": "4",
+      "target": "n31",
+      "source": "n39",
+      "value": "4"
+    },
+    {
+      "weight": 3.0,
+      "id": "9",
+      "target": "n43",
+      "source": "n44",
+      "value": "9"
+    },
+    {
+      "weight": 3.0,
+      "id": "8",
+      "target": "n9",
+      "source": "n42",
+      "value": "8"
+    }
+  ]
+}
