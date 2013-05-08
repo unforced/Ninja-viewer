@@ -1,6 +1,8 @@
 require 'bundler'
 Bundler.require(:default)
 
+set :environment, :production
+
 get '/' do
   @repos = JSON.parse(File.read("public/data/repos.json")).collect{|r| "#{r["repository_owner"]}_#{r["repository_name"]}"}
   @repo = params[:repo]
