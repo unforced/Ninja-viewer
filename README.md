@@ -21,6 +21,11 @@ hovered to view the user being represented as well as see all of their connectio
 highlighted. Connections vary in width depending on how many connections exist
 between two users.
 
+Connections are formed by interacting within the repository. For example, an edge
+is created when a user comments on someones commit, or pull request, or issue,
+or likewise when someone closes or merges in someones pull request.
+
+
 ### Credits and Tools used
 
 [BigQuery](https://bigquery.cloud.google.com/) with [Githubarchive](http://www.githubarchive.org/)
