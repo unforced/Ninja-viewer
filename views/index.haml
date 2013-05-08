@@ -10,13 +10,23 @@
     %script{src: "js/d3.v2.js"}
     %script{src: "js/Tooltip.js"}
     %script{src: "js/bootstrap-slider.js"}
+    :javascript
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-40759642-1', 'aaronneyer.com');
+      ga('send', 'pageview');
+
+
     %script{src: "js/vis.js"}
     :javascript
       var dates = #{@dates};
       var repo = "#{@repo}";
       var di = 0;
-      $(document).on("change", "#song_select", function(){window.location.replace("?repo="+$(this).val())});
       $(document).ready(function(){
+        $(document).on("change", "#song_select", function(){window.location.replace("?repo="+$(this).val())});
         slider = $(".slider").slider('setValue', 0)
         slider.on("slide", function(ev){
           if (di != ev.value) {
