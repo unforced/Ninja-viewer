@@ -16,7 +16,10 @@ active.
 
 From the website, hosted at [ninja.aaronneyer.com](http://ninja.aaronneyer.com),
 you can select one of the repositories that has information, and view the social
-network for the repository as it changes over time.
+network for the repository as it changes over time. Nodes in the graph can be
+hovered to view the user being represented as well as see all of their connections
+highlighted. Connections vary in width depending on how many connections exist
+between two users.
 
 ### Credits and Tools used
 
