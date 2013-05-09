@@ -147,6 +147,8 @@ $(document).ready ->
       node.on("mouseover", showDetails)
         .on("mouseout", hideDetails)
 
+      node.call(force.drag)
+
       node.exit().remove()
 
     # enter/exit display for links

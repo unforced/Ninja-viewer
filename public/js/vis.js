@@ -102,6 +102,7 @@
           return strokeFor(d);
         }).style("stroke-width", 1.0);
         node.on("mouseover", showDetails).on("mouseout", hideDetails);
+        node.call(force.drag);
         return node.exit().remove();
       };
       updateLinks = function() {
