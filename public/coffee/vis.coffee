@@ -23,8 +23,6 @@ $(document).ready ->
     # color function used to color nodes
     nodeColors = d3.scale.category10()
     lineScale = d3.scale.linear().domain([0,100]).range([0.8,10])
-    # tooltip used to display details
-    tooltip = Tooltip("vis-tooltip", 230)
 
     charge = (node) -> -Math.pow(node.radius, 2.0) / 2
 
@@ -140,6 +138,7 @@ $(document).ready ->
         .attr("cx", (d) -> d.x)
         .attr("cy", (d) -> d.y)
         .attr("r", (d) -> d.radius)
+        .attr("title", (d) -> d.label)
         .style("fill", (d) -> nodeColors(d.id))
         .style("stroke", (d) -> strokeFor(d))
         .style("stroke-width", 1.0)
@@ -160,6 +159,7 @@ $(document).ready ->
         .attr("stroke", "#BBB")
         .attr("stroke-opacity", 0.9)
         .style("stroke-width", (d) -> lineScale(d.weight))
+        .attr("title", (d) -> d.weight)
         .attr("x1", (d) -> d.source.x)
         .attr("y1", (d) -> d.source.y)
         .attr("x2", (d) -> d.target.x)
@@ -187,9 +187,6 @@ $(document).ready ->
 
     # Mouseover tooltip function
     showDetails = (d,i) ->
-      content = '<p class="main">' + d.label + '</span></p>'
-      tooltip.showTooltip(content,d3.event)
-
       # higlight connected links
       if link
         link.attr("stroke", (l) ->
@@ -212,7 +209,6 @@ $(document).ready ->
 
     # Mouseout function
     hideDetails = (d,i) ->
-      tooltip.hideTooltip()
       # watch out - don't mess with node if search is currently matching
       node.style("stroke", (n) -> if !n.searched then strokeFor(n) else "#555")
         .style("stroke-width", (n) -> if !n.searched then 1.0 else 2.0)

@@ -6,9 +6,10 @@
     %link{rel: "stylesheet", href: "css/bootstrap.css"}
     %link{rel: "stylesheet", href: "css/style.css"}
     %link{rel: "stylesheet", href: "css/slider.css"}
+    %link{rel: "stylesheet", href: "http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"}
     %script{src: "//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"}
     %script{src: "http://d3js.org/d3.v3.min.js"}
-    %script{src: "js/Tooltip.js"}
+    %script{src: "http://code.jquery.com/ui/1.10.3/jquery-ui.js"}
     %script{src: "js/bootstrap-slider.js"}
     :javascript
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -26,6 +27,7 @@
       var repo = "#{@repo}";
       var di = 0;
       $(document).ready(function(){
+        $(document).tooltip();
         $(document).on("change", "#song_select", function(){window.location.replace("?repo="+$(this).val())});
         slider = $(".slider").slider('setValue', 0)
         slider.on("slide", function(ev){

@@ -4,7 +4,7 @@
   $(document).ready(function() {
     var Network, myNetwork;
     Network = function() {
-      var allData, charge, curLinksData, curNodesData, force, forceTick, height, hideDetails, lineScale, link, linkedByIndex, linksG, mapNodes, neighboring, network, node, nodeColors, nodeCounts, nodesG, setupData, showDetails, strokeFor, tooltip, update, updateLinks, updateNodes, width;
+      var allData, charge, curLinksData, curNodesData, force, forceTick, height, hideDetails, lineScale, link, linkedByIndex, linksG, mapNodes, neighboring, network, node, nodeColors, nodeCounts, nodesG, setupData, showDetails, strokeFor, update, updateLinks, updateNodes, width;
       width = 960;
       height = 800;
       allData = [];
@@ -18,7 +18,6 @@
       force = d3.layout.force();
       nodeColors = d3.scale.category10();
       lineScale = d3.scale.linear().domain([0, 100]).range([0.8, 10]);
-      tooltip = Tooltip("vis-tooltip", 230);
       charge = function(node) {
         return -Math.pow(node.radius, 2.0) / 2;
       };
@@ -96,6 +95,8 @@
           return d.y;
         }).attr("r", function(d) {
           return d.radius;
+        }).attr("title", function(d) {
+          return d.label;
         }).style("fill", function(d) {
           return nodeColors(d.id);
         }).style("stroke", function(d) {
@@ -111,6 +112,8 @@
         });
         link.enter().append("line").attr("class", "link").attr("stroke", "#BBB").attr("stroke-opacity", 0.9).style("stroke-width", function(d) {
           return lineScale(d.weight);
+        }).attr("title", function(d) {
+          return d.weight;
         }).attr("x1", function(d) {
           return d.source.x;
         }).attr("y1", function(d) {
@@ -142,9 +145,6 @@
         return d3.rgb(nodeColors(d.id)).darker().toString();
       };
       showDetails = function(d, i) {
-        var content;
-        content = '<p class="main">' + d.label + '</span></p>';
-        tooltip.showTooltip(content, d3.event);
         if (link) {
           link.attr("stroke", function(l) {
             if (l.source === d || l.target === d) {
@@ -176,7 +176,6 @@
         return d3.select(this).style("stroke", "black").style("stroke-width", 2.0);
       };
       hideDetails = function(d, i) {
-        tooltip.hideTooltip();
         node.style("stroke", function(n) {
           if (!n.searched) {
             return strokeFor(n);
